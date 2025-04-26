@@ -31,5 +31,13 @@ All variables are categorical except for 'Age', making it unfeasible to perform 
 
 - Visualized distribution of age, gender, and treatment seeking behavior.
 - Identified the imbalances in predictors using histograms.
+  - Balanced features identified are:
+    - Work interference
+    - Supervisor and Coworker support
+    - Family history
+    - Care options
+    - Benefits
+    - Physical health interview (comfort when discussing)
+    - Mental vs Physical health (equal importance for both)
 
 The key insights tells us that we have a male dominant sample, the majority of the participants/respondents are from the United States, there are limited access to mental health benefits in workplaces, and mental health openness is still very low in the interview settings.

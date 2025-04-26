@@ -21,8 +21,8 @@ This initial phase focuses on cleaning, preprocessing, and exploring the mental 
 5. Dropped duplicated rows: There are only 4 duplicated rows.
 
 6. Encoding strategy:
-- If unique categories in the variable are less than or equal to 5, apply one-hot encoding.
-- If unique categories in the variables are more than 5, apply label encoding. 
+    - If unique categories in the variable are less than or equal to 5, apply one-hot encoding.
+    - If unique categories in the variables are more than 5, apply label encoding. 
 
 
 **EDA:**

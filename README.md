@@ -42,3 +42,25 @@ flowchart TD
     
     J --> K[CI/CD Integration: GitHub Actions]
 
+**Quick Start Guide**
+- Install Requirements
+* pip install -r requirements.txt
+
+- Local Development
+1. Preprocess Data: python data_preprocessing/preprocess.py
+2. Train Model: python modeling/train_model.py
+3. Run Fairness and Drift Monitoring: python drift_fairness/check_fairness.py
+                                      python drift_fairness/monitor_drift.py
+4. Launch FastAPI App: cd inference ,uvicorn api:app --reload, The API will be available at: http://127.0.0.1:8000/docs
+
+- Docker Deployment
+1. Build Docker Image:docker build -t mental-health-api .
+2. Run Docker Container: docker run -p 8000:8000 mental-health-api
+
+-  Continuous Integration (CI)
+Every push to the main branch triggers the GitHub Actions workflow to:
+
+- Automatically build the Docker image
+- Run unit tests in /tests/
+- Validate the FastAPI server
+- You can find the workflow file in .github/workflows/ci.yml. 

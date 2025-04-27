@@ -61,6 +61,8 @@ flowchart TD
 Every push to the main branch triggers the GitHub Actions workflow to:
 
   1.Automatically build the Docker image
+  
   2. Run unit tests in /tests/
+     
   3. Validate the FastAPI server  
 You can find the workflow file in .github/workflows/ci.yml. 

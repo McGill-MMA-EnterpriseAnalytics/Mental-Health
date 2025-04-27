@@ -20,8 +20,21 @@ Target Variable:
 - treatment: Whether the individual has sought treatment for a mental health condition (Yes/No)
 
  **Project Workflow**
+ ## 🚀 Project End-to-End Pipeline
 
-<img src="workflow.svg" width="700"/>
+```mermaid
+flowchart TD
+    A[Data Collection: survey.csv] --> B[Data Preprocessing: cleaning_utils.py, preprocess.py]
+    B --> C[Train/Test Split: X_train_final.csv, X_test_final.csv]
+    C --> D[Model Training: Logistic Regression, Random Forest, XGBoost]
+    D --> E[Hyperparameter Tuning: Optuna]
+    E --> F[Model Evaluation: Accuracy, Fairness, Explainability]
+    F --> G[Model Saving: classifier.pkl, preprocessor.pkl]
+    G --> H[API Deployment: FastAPI app.py]
+    F --> I[Fairness & Drift Monitoring: Fairlearn + Evidently]
+    H --> J[Dockerize Application: dockerfile, docker-compose.yml]
+    J --> K[CI/CD Integration: GitHub Actions]
+
 
 
 **Quick Start Guide**
@@ -58,7 +71,7 @@ You can find the workflow file in .github/workflows/ci.yml.
 
 
 
-## 🗂️ Project Structure Overview
+## Project Structure Overview
 
 ```mermaid
 flowchart TD

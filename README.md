@@ -86,18 +86,36 @@ You can find the workflow file in .github/workflows/ci.yml.
 
 
 **Repository Structure**
-.github/workflows/     # GitHub Actions CI/CD config
-data_preprocessing/    # Data cleaning and preprocessing scripts
-drift_fairness/        # Drift and fairness monitoring scripts
-Experiments/           # Experimentation: model training scripts
-inference/             # FastAPI app for inference
-modeling/              # Model training and model artifacts
-tests/                 # Unit tests for API and model
-working_notebooks/     # Team exploratory Jupyter notebooks
-survey.csv             # Raw data file
-requirements.txt       # Project dependencies
-dockerfile             # Docker build instructions
-docker-compose.yml     # Docker Compose setup
+```mermaid
+flowchart TD
+    A1[mental-health-prediction/] --> B1[.github/workflows/ci.yml (GitHub Actions for CI/CD)]
+    A1 --> B2[Experiments/ (Training experiments with different models)]
+    B2 --> B21[train_xgboost.py, train_catboost.py, etc. (model training scripts)]
+    A1 --> B3[data_preprocessing/ (Data cleaning and preprocessing code)]
+    B3 --> B31[cleaning_utils.py, preprocess.py (data cleaning functions)]
+    A1 --> B4[drift_fairness/ (Drift detection and fairness evaluation)]
+    B4 --> B41[monitor_drift.py, check_fairness.py (monitor and report drift/fairness)]
+    A1 --> B5[explainability/ (Explainability notebooks)]
+    B5 --> B51[explainability.ipynb (model explanation analysis)]
+    A1 --> B6[inference/ (API for inference)]
+    B6 --> B61[api.py (FastAPI server for prediction)]
+    A1 --> B7[mlruns/ (MLflow experiment tracking folder)]
+    A1 --> B8[modeling/ (Final model artifacts and training scripts)]
+    B8 --> B81[train_model.py (final training pipeline)]
+    B8 --> B82[classifier.pkl, preprocessor.pkl (saved model and preprocessor)]
+    A1 --> B9[tests/ (Pytest unit tests)]
+    B9 --> B91[test_preprocessing.py, test_model.py, test_api.py (test scripts)]
+    A1 --> B10[venv/ (Virtual environment folder)]
+    A1 --> B11[working notebooks/ (Work-in-progress teammate notebooks)]
+    B11 --> B111[Data_Preprocessing_and_EDA.ipynb, Fairness_Analysis.ipynb (initial exploration)]
+    A1 --> B12[conftest.py (Pytest configuration)]
+    A1 --> B13[.DS_Store (MacOS system file)]
+    A1 --> B14[README.md (Main project documentation)]
+    A1 --> B15[docker-compose.yml (Docker orchestration)]
+    A1 --> B16[dockerfile (Docker build file)]
+    A1 --> B17[requirements.txt (Python dependencies)]
+    A1 --> B18[survey.csv (Raw dataset)]
+```
 
 
 

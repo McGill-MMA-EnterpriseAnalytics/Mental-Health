@@ -85,7 +85,11 @@ flowchart TD
     A1 --> L[mlruns/]
     A1 --> M[README.md]
 
+'''
 
+
+
+```mermaid
 flowchart TD
     A[Data Collection: survey.csv] --> B[Data Preprocessing: cleaning_utils.py, preprocess.py]
     B --> C[Train/Test Split: X_train_final.csv, X_test_final.csv]

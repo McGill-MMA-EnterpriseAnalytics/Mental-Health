@@ -51,7 +51,7 @@ You can find the workflow file in .github/workflows/ci.yml.
 
 **Key Results**
 
-- Achieved 81% overall test accuracy on the mental health treatment prediction task.
+- Achieved 90% overall test accuracy on the mental health treatment prediction task.
 - Implemented fairness auditing with demographic parity and equalized odds difference metrics.
 - Deployed Dockerized FastAPI API and integrated CI/CD with GitHub Actions.
 - Set up drift detection using Evidently AI for continuous monitoring.

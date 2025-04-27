@@ -55,3 +55,38 @@ You can find the workflow file in .github/workflows/ci.yml.
 - Implemented fairness auditing with demographic parity and equalized odds difference metrics.
 - Deployed Dockerized FastAPI API and integrated CI/CD with GitHub Actions.
 - Set up drift detection using Evidently AI for continuous monitoring.
+
+
+
+## 🗂️ Project Structure Overview
+
+```mermaid
+flowchart TD
+    A1[mental-health-prediction/] --> B1[data_preprocessing/]
+    B1 --> B2[preprocess.py]
+
+    A1 --> C1[modeling/]
+    C1 --> C2[train_model.py]
+
+    A1 --> D1[inference/]
+    D1 --> D2[api.py]
+
+    A1 --> E1[drift_fairness/]
+    E1 --> E2[monitor_drift.py]
+    E1 --> E3[check_fairness.py]
+
+    A1 --> F1[tests/]
+    F1 --> F2[test_preprocessing.py]
+    F1 --> F3[test_model.py]
+
+    A1 --> G1[notebooks/]
+    G1 --> G2[explainability.ipynb]
+
+    A1 --> H[Dockerfile]
+    A1 --> I[requirements.txt]
+    A1 --> J[.pre-commit-config.yaml]
+    A1 --> K[.github/workflows/ci.yml]
+    A1 --> L[mlruns/]
+    A1 --> M[README.md]
+
+

@@ -19,21 +19,37 @@ Key Features:
 Target Variable:
 - treatment: Whether the individual has sought treatment for a mental health condition (Yes/No)
 
-**Project Workflow**
+## Project Structure Overview
+
 ```mermaid
 flowchart TD
-    A[Data Collection: survey.csv] --> B[Data Preprocessing: cleaning_utils.py, preprocess.py]
-    B --> C[Train/Test Split: X_train_final.csv, X_test_final.csv]
-    C --> D[Model Training: Logistic Regression, Random Forest, XGBoost]
-    D --> E[Hyperparameter Tuning: Optuna]
-    E --> F[Model Evaluation: Accuracy, Fairness, Explainability]
-    F --> G[Model Saving: classifier.pkl, preprocessor.pkl]
-    G --> H[API Deployment: FastAPI app.py]
-    F --> I[Fairness & Drift Monitoring: Fairlearn + Evidently]
-    H --> J[Dockerize Application: dockerfile, docker-compose.yml]
-    J --> K[CI/CD Integration: GitHub Actions]
-```
+    A1[mental-health-prediction/] --> B1[data_preprocessing/]
+    B1 --> B2[preprocess.py]
 
+    A1 --> C1[modeling/]
+    C1 --> C2[train_model.py]
+
+    A1 --> D1[inference/]
+    D1 --> D2[api.py]
+
+    A1 --> E1[drift_fairness/]
+    E1 --> E2[monitor_drift.py]
+    E1 --> E3[check_fairness.py]
+
+    A1 --> F1[tests/]
+    F1 --> F2[test_preprocessing.py]
+    F1 --> F3[test_model.py]
+
+    A1 --> G1[notebooks/]
+    G1 --> G2[explainability.ipynb]
+
+    A1 --> H[Dockerfile]
+    A1 --> I[requirements.txt]
+    A1 --> J[.pre-commit-config.yaml]
+    A1 --> K[.github/workflows/ci.yml]
+    A1 --> L[mlruns/]
+    A1 --> M[README.md]
+```
 
 
 **Quick Start Guide**
@@ -69,38 +85,20 @@ You can find the workflow file in .github/workflows/ci.yml.
 - Set up drift detection using Evidently AI for continuous monitoring.
 
 
+**Repository Structure**
+.github/workflows/     # GitHub Actions CI/CD config
+data_preprocessing/    # Data cleaning and preprocessing scripts
+drift_fairness/        # Drift and fairness monitoring scripts
+Experiments/           # Experimentation: model training scripts
+inference/             # FastAPI app for inference
+modeling/              # Model training and model artifacts
+tests/                 # Unit tests for API and model
+working_notebooks/     # Team exploratory Jupyter notebooks
+survey.csv             # Raw data file
+requirements.txt       # Project dependencies
+dockerfile             # Docker build instructions
+docker-compose.yml     # Docker Compose setup
 
-## Project Structure Overview
-
-```mermaid
-flowchart TD
-    A1[mental-health-prediction/] --> B1[data_preprocessing/]
-    B1 --> B2[preprocess.py]
-
-    A1 --> C1[modeling/]
-    C1 --> C2[train_model.py]
-
-    A1 --> D1[inference/]
-    D1 --> D2[api.py]
-
-    A1 --> E1[drift_fairness/]
-    E1 --> E2[monitor_drift.py]
-    E1 --> E3[check_fairness.py]
-
-    A1 --> F1[tests/]
-    F1 --> F2[test_preprocessing.py]
-    F1 --> F3[test_model.py]
-
-    A1 --> G1[notebooks/]
-    G1 --> G2[explainability.ipynb]
-
-    A1 --> H[Dockerfile]
-    A1 --> I[requirements.txt]
-    A1 --> J[.pre-commit-config.yaml]
-    A1 --> K[.github/workflows/ci.yml]
-    A1 --> L[mlruns/]
-    A1 --> M[README.md]
-```
 
 
 

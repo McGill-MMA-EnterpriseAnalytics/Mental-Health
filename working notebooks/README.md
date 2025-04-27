@@ -7,3 +7,9 @@ Each Jupyter notebook includes:
 - Intermediate steps, exploration, and decision points leading to the final deliverables
 Note: These notebooks serve as a record of the collaborative efforts during project development.
 Finalized results and production-ready code are organized separately in the main repository.
+
+Purpose
+
+- Preserve teammates' individual contributions
+- Maintain transparency on methodology and reasoning
+- Facilitate future reviews, audits, and knowledge sharing

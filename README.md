@@ -20,23 +20,6 @@ Target Variable:
 - treatment: Whether the individual has sought treatment for a mental health condition (Yes/No)
 
  **Project Workflow**
- Data Collection (survey.csv)
-    ↓
-Data Preprocessing (cleaning_utils.py, preprocess.py)
-    ↓
-Train/Test Split (X_train_final.csv, X_test_final.csv)
-    ↓
-Model Training (Logistic Regression, Random Forest, XGBoost)
-    ↓
-Hyperparameter Tuning (Optuna)
-    ↓
-Model Evaluation (Accuracy, Fairness, Explainability)
-   ↙                   ↘
-Model Saving        Fairness & Drift Monitoring (Fairlearn + Evidently)
-(classifier.pkl, preprocessor.pkl)
-    ↓
-API Deployment (FastAPI app.py)
-    ↓
-Dockerize Application (dockerfile, docker-compose.yml)
-    ↓
-CI/CD Integration (GitHub Actions)
+
+![Workflow](./workflow.svg)
+

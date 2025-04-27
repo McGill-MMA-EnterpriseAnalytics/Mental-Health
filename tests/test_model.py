@@ -6,8 +6,8 @@ import pytest
 
 def test_model_predict():
     # Load model and preprocessor
-    model = joblib.load('/Users/qianzhao/Desktop/Enterprise/formal version/modeling/classifier.pkl')
-    preprocessor = joblib.load('/Users/qianzhao/Desktop/Enterprise/formal version/modeling/preprocessor.pkl')
+    model = joblib.load('modeling/classifier.pkl')
+    preprocessor = joblib.load('modeling/preprocessor.pkl')
 
     # Create a small sample input
     sample_data = pd.DataFrame({

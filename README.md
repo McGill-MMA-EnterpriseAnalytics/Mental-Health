@@ -57,8 +57,7 @@ flowchart TD
 1. Build Docker Image:docker build -t mental-health-api .
 2. Run Docker Container: docker run -p 8000:8000 mental-health-api
 
--  Continuous Integration (CI)
-- 
+-  Continuous Integration (CI)  
 Every push to the main branch triggers the GitHub Actions workflow to:
 
 - Automatically build the Docker image

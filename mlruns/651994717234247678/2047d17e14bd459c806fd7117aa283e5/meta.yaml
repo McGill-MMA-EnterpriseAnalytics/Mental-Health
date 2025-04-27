@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/qianzhao/Desktop/Enterprise/formal%20version/mlruns/651994717234247678/2047d17e14bd459c806fd7117aa283e5/artifacts
+end_time: 1745697972921
+entry_point_name: ''
+experiment_id: '651994717234247678'
+lifecycle_stage: active
+run_id: 2047d17e14bd459c806fd7117aa283e5
+run_name: crawling-koi-173
+run_uuid: 2047d17e14bd459c806fd7117aa283e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745697972915
+status: 4
+tags: []
+user_id: qianzhao

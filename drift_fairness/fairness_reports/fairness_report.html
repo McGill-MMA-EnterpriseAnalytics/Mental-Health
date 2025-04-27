@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fairness Evaluation Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f8f9fa;
+        }
+        h1 {
+            color: #343a40;
+        }
+        p {
+            font-size: 16px;
+            color: #495057;
+        }
+        img {
+            width: 600px;
+            height: auto;
+            margin-top: 20px;
+            border: 1px solid #dee2e6;
+        }
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #dee2e6;
+            text-align: center;
+            padding: 8px;
+        }
+        th {
+            background-color: #e9ecef;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Fairness Evaluation Report</h1>
+
+<p><strong>Overall Test Accuracy:</strong> 0.8132</p>
+
+<p><strong>Demographic Parity Difference (max diff):</strong> 
+<span style="color: red;">0.2230</span></p>
+
+<p><strong>Equalized Odds Difference (max diff):</strong> 
+<span style="color: red;">0.3000</span></p>
+
+<h2>Accuracy by Group (Gender)</h2>
+<table>
+    <tr>
+        <th>Group</th>
+        <th>Accuracy</th>
+    </tr>
+
+    <tr>
+        <td>Female</td>
+        <td>0.8889</td>
+    </tr>
+    
+    <tr>
+        <td>Male</td>
+        <td>0.7810</td>
+    </tr>
+    
+    <tr>
+        <td>Other</td>
+        <td>1.0000</td>
+    </tr>
+    
+</table>
+
+<h2>Fairness Radar Chart</h2>
+<img src="fairness_radar.png" alt="Fairness Radar Chart">
+
+</body>
+</html>

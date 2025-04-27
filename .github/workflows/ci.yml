@@ -1,0 +1,47 @@
+# .github/workflows/ci.yml
+
+name: CI for Mental Health Prediction
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        pip install --no-cache-dir -r requirements.txt
+        pip install pytest
+
+    - name: Run tests with pytest
+      run: |
+        pytest tests/
+
+    - name: Build Docker image
+      run: |
+        docker build -t mental-health-api .
+
+    - name: Run Docker container (test startup)
+      run: |
+        docker run -d -p 8000:8000 --name mental-health-api mental-health-api
+        sleep 10
+        docker ps
+
+    - name: Shutdown and clean up
+      if: always()
+      run: |
+        docker stop mental-health-api
+        docker rm mental-health-api

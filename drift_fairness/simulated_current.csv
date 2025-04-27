@@ -1,0 +1,775 @@
+Age,Gender,Country,self_employed,family_history,work_interfere,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,Country_grouped
+26.0176393807799,Male,United States,No,Yes,Not applicable,No,Yes,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,United States
+37.720989049026855,Male,United States,No,No,Never,Yes,Yes,No,Yes,No,No,Very difficult,Yes,Yes,No,No,No,No,Don't know,No,United States
+31.776749344522546,Male,United Kingdom,No,Yes,Often,Yes,No,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+35.80450934677838,Male,United States,No,No,Not applicable,No,No,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+30.389705642403694,Male,United States,Yes,No,Never,Yes,Yes,No,Yes,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,United States
+24.546752695888536,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,No,No,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,United States
+31.056650868420565,Male,Italy,No,No,Sometimes,No,No,Don't know,No,No,No,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Other
+21.125666478515416,Female,United States,No,Yes,Sometimes,No,No,Yes,Yes,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,United States
+36.34268392732441,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Yes,No,No,No,No,No,No,No,United States
+40.07522312014808,Male,Italy,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Other
+27.7839246004215,Female,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,United States
+33.50526449827979,Male,United States,No,Yes,Not applicable,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+27.415184340860524,Male,United States,No,No,Never,No,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+26.33300165985021,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+30.212264700990378,Male,Belgium,No,No,Not applicable,No,Yes,No,Yes,No,No,Very difficult,Yes,Maybe,No,No,No,No,No,No,Other
+33.635610338403765,Male,Australia,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Australia
+33.04970467648929,Female,United States,Yes,No,Never,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,No,United States
+30.530111212925174,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United Kingdom
+42.37277482443058,Male,United States,No,Yes,Sometimes,Yes,No,Yes,Not sure,Yes,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,United States
+25.801288350335824,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,Don't know,Yes,United States
+31.611459146308494,Male,United States,No,Yes,Sometimes,Yes,No,Yes,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+33.35354054143391,Male,Canada,Yes,No,Never,Yes,Yes,Don't know,Not sure,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Canada
+63.864561930448616,Male,United States,Yes,No,Not applicable,Yes,No,No,No,No,No,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,United States
+32.4841691770476,Male,Brazil,Yes,No,Not applicable,No,Yes,No,Yes,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Other
+33.23827271102348,Male,United States,No,Yes,Sometimes,No,No,No,Yes,No,No,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+34.235033965083815,Male,United States,No,Yes,Sometimes,No,No,No,Yes,No,No,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+32.86904529248508,Male,United States,No,Yes,Sometimes,No,No,Yes,Not sure,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,United States
+21.686038710600656,Male,United Kingdom,No,Yes,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,United Kingdom
+33.595520501836795,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Yes,No,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,United States
+25.4060971284509,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,No,United Kingdom
+46.05719355343669,Male,United States,No,No,Rarely,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,United States
+31.555637384146056,Female,Sweden,No,Yes,Rarely,No,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,No,No,Yes,Don't know,No,Other
+28.856195553232386,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+39.183171477387525,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,No,No,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+32.07775521584589,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+33.91828413280798,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,No,United States
+23.955107432251292,Male,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Very difficult,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,United Kingdom
+29.62415883763934,Male,Germany,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Germany
+27.543763990070865,Male,United Kingdom,Yes,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,United Kingdom
+38.88931037133392,Male,United Kingdom,No,No,Not applicable,Yes,Yes,No,No,No,No,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,United Kingdom
+31.90501928600238,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+28.223143834687214,Female,United States,No,Yes,Sometimes,No,No,Yes,Not sure,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,United States
+32.592417616905045,Male,United States,No,Yes,Rarely,No,Yes,No,No,No,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,No,No,Yes,United States
+38.750502511237435,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+26.777182242888365,Male,United States,No,No,Never,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+30.754203957572585,Male,Sweden,No,No,Rarely,No,Yes,No,Yes,No,No,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Other
+38.25929896994474,Male,United States,No,No,Never,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+31.743187660973053,Male,United States,No,No,Not applicable,No,Yes,Yes,No,Yes,No,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+51.503805236065396,Male,France,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No,France
+44.236281190561364,Male,United States,No,Yes,Sometimes,No,No,Yes,Not sure,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,No,No,United States
+27.780804687832532,Male,United Kingdom,No,No,Never,No,Yes,Don't know,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+25.74756457082252,Male,United States,No,No,Not applicable,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,United States
+32.56626755928482,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+28.23151144383331,Male,United Kingdom,Yes,Yes,Often,Yes,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United Kingdom
+35.56379220325211,Male,United States,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,United States
+35.933792150270975,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+42.11735982017797,Male,United States,No,No,Not applicable,Yes,Yes,Yes,No,No,No,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,United States
+26.32714667117731,Female,United States,No,Yes,Rarely,No,Yes,Yes,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,United States
+39.94015555582745,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+29.167169801484597,Female,Hungary,Yes,Yes,Sometimes,Yes,Yes,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,Other
+35.14935753167631,Male,United States,Yes,No,Never,No,Yes,Yes,No,No,Don't know,Somewhat difficult,No,No,Some of them,Yes,Yes,Yes,Yes,No,United States
+35.44154609828116,Male,United States,No,No,Never,No,Yes,No,No,No,No,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+42.351617460088164,Male,United States,No,No,Often,Yes,Yes,No,Not sure,No,No,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,United States
+20.55552440584887,Female,United States,No,Yes,Sometimes,No,No,No,No,No,No,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,No,No,United States
+40.35328757542758,Male,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+32.769452843508276,Male,United Kingdom,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+26.2173376621347,Male,United States,No,No,Often,No,No,Don't know,Not sure,No,No,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,United States
+20.843569140675015,Male,France,No,No,Not applicable,No,Yes,No,No,No,No,Very easy,Yes,No,No,No,No,No,No,Yes,France
+20.8744472430697,Male,Canada,Yes,Yes,Not applicable,Yes,Yes,Don't know,Not sure,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Canada
+27.567116141221828,Male,United Kingdom,No,No,Never,No,Yes,Yes,Not sure,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United Kingdom
+34.14238784113592,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+43.46032262691429,Male,United States,No,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,Yes,United States
+26.56091798657556,Male,United States,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,Don't know,No,United States
+27.177904545219405,Male,United States,No,No,Never,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+32.3318274307428,Male,United States,Yes,No,Never,Yes,Yes,No,Yes,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,United States
+32.1231372412509,Male,United States,No,No,Not applicable,No,Yes,No,Yes,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+30.328854551666744,Female,United States,No,Yes,Never,No,Yes,Yes,Not sure,Don't know,No,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,United States
+20.604941764639378,Male,Canada,No,Yes,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Canada
+31.626388813705795,Female,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,No,Yes,United States
+38.523837972871334,Male,United States,Yes,No,Not applicable,Yes,Yes,Yes,Yes,Yes,No,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+22.70267482590226,Female,United Kingdom,No,Yes,Often,Yes,Yes,No,No,No,No,Very easy,No,No,Yes,Yes,No,No,Don't know,No,United Kingdom
+30.902343331836647,Male,Croatia,No,Yes,Sometimes,Yes,Yes,Yes,Yes,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Other
+47.99171505743699,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,United States
+29.94132512015068,Male,United States,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+50.0660540859316,Male,United States,No,Yes,Not applicable,Yes,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+35.599302385084094,Female,United States,No,No,Rarely,No,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+27.898545951822726,Female,United States,No,No,Never,No,Yes,Yes,Yes,Yes,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+29.08933488863678,Male,Poland,No,No,Rarely,Yes,Yes,No,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,Other
+36.43876796767037,Male,Germany,No,No,Not applicable,No,Yes,Don't know,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Germany
+33.82060874638495,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,No,United States
+27.618177017223314,Male,United Kingdom,No,No,Not applicable,No,No,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Some of them,Yes,Yes,No,No,United Kingdom
+52.54475597395519,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,United States
+30.93809870413613,Male,Canada,Yes,No,Not applicable,No,Yes,Yes,Yes,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,Canada
+32.37129660283833,Male,Sweden,No,No,Rarely,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,Yes,Don't know,Yes,Other
+27.039744452699967,Male,United States,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,United States
+35.59841626791853,Male,United States,No,No,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+22.353469421407887,Male,Sweden,No,No,Rarely,No,Yes,Don't know,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Other
+29.16606158791307,Male,United States,No,Yes,Not applicable,No,Yes,Yes,Yes,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,No,No,United States
+28.845864364418816,Female,United States,No,No,Rarely,No,Yes,Yes,No,No,No,Don't know,Maybe,Maybe,Yes,No,No,Maybe,Don't know,No,United States
+21.633887126465126,Male,Canada,Yes,Yes,Not applicable,Yes,Yes,Don't know,Not sure,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Canada
+31.221423616545014,Male,United States,No,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,United States
+29.089533734189807,Male,United States,No,No,Never,No,Yes,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,No,Yes,United States
+34.68485553044255,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,United States
+44.64156075343071,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+27.92301655996052,Male,United Kingdom,Yes,No,Not applicable,Yes,Yes,No,Yes,No,No,Very easy,Maybe,Maybe,No,No,No,No,Yes,No,United Kingdom
+32.45050500965117,Male,Canada,No,Yes,Often,Yes,Yes,Don't know,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,Canada
+33.5684932516655,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+29.262505580795477,Male,New Zealand,No,No,Rarely,No,Yes,No,Yes,No,Yes,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,Other
+31.341941943136437,Male,United States,No,No,Sometimes,No,No,No,Yes,No,Don't know,Don't know,No,No,Some of them,No,No,No,No,No,United States
+36.187430742833435,Male,Netherlands,Yes,No,Not applicable,No,Yes,No,No,Yes,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Netherlands
+29.776625402867616,Male,United States,No,No,Never,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+38.103566934031804,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,Yes,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,United States
+23.572766888518473,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+30.71230845817607,Male,United Kingdom,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+24.232431633936123,Male,United States,No,Yes,Rarely,No,Yes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,United States
+33.16046517470164,Male,Ireland,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,Ireland
+31.755922919873747,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,United States
+24.12444033226018,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Yes,Yes,Some of them,No,No,No,No,No,United States
+36.00922151413751,Male,Canada,No,Yes,Often,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Canada
+31.575019016304054,Male,Ireland,Yes,No,Never,No,Yes,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Ireland
+35.86438530293081,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United States
+34.50314216966464,Female,Canada,No,Yes,Sometimes,No,No,Yes,Yes,Yes,No,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,Canada
+33.60479768847645,Male,United States,No,Yes,Not applicable,No,Yes,Yes,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,United States
+33.44100186839992,Male,Netherlands,No,No,Rarely,No,Yes,Don't know,Not sure,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Netherlands
+34.13518884175794,Male,United Kingdom,No,No,Never,No,Yes,Yes,No,No,Yes,Don't know,Maybe,Yes,Some of them,No,No,No,Yes,No,United Kingdom
+26.218520404445847,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+28.275946540301547,Male,Portugal,No,No,Never,No,Yes,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Other
+38.52908655559061,Male,United States,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,United States
+33.00763139117911,Male,Germany,Yes,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,No,No,Germany
+40.53643361655539,Male,United States,Yes,No,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+33.43353096062877,Male,Italy,No,No,Sometimes,No,No,Don't know,No,No,No,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Other
+41.21622778243667,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,No,Maybe,No,Yes,United States
+27.23477961944065,Male,Australia,No,Yes,Sometimes,Yes,Yes,No,No,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,Australia
+34.77607764069983,Male,Canada,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Canada
+23.097763050302287,Female,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+46.134615733277904,Male,United Kingdom,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,United Kingdom
+44.21233018122291,Male,United Kingdom,No,Yes,Not applicable,No,No,Don't know,No,No,No,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United Kingdom
+31.115135250177406,Male,United States,No,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,United States
+28.911071012787065,Male,United States,Yes,Yes,Rarely,Yes,Yes,No,Yes,No,No,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+31.43031001774351,Male,United States,No,No,Rarely,No,Yes,Yes,No,No,No,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+31.50330294279965,Male,United States,No,No,Never,No,No,Yes,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+22.95512924090847,Female,Bulgaria,No,No,Sometimes,Yes,Yes,No,No,No,No,Don't know,Maybe,Maybe,Yes,Some of them,Maybe,No,No,No,Other
+42.88798653445264,Female,United States,No,No,Often,Yes,No,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+24.65863157030355,Male,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Yes,United Kingdom
+25.102135490951817,Male,United States,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,United States
+30.936104364459652,Male,United States,Yes,Yes,Rarely,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,United States
+27.00385509791039,Female,Canada,No,No,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Canada
+44.91675701341497,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+27.6148347221656,Male,United Kingdom,Yes,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,United Kingdom
+33.010204324599314,Male,United Kingdom,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+23.08654338948858,Male,United States,No,Yes,Sometimes,Yes,No,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,United States
+37.52367445038887,Female,United States,No,Yes,Sometimes,No,No,Yes,Not sure,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+28.4869914776158,Male,Germany,No,Yes,Rarely,Yes,Yes,Yes,No,No,No,Very easy,No,No,Yes,Yes,No,No,Yes,No,Germany
+47.900356959057135,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,United States
+22.956585964232517,Male,Canada,No,No,Never,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Canada
+46.73597061488483,Male,United States,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,No,Very easy,Yes,Yes,Some of them,No,No,No,Yes,No,United States
+34.42531152476604,Male,United States,No,No,Never,Yes,Yes,No,Yes,No,No,Don't know,Yes,Yes,No,No,No,No,Don't know,No,United States
+33.70005357627306,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,Don't know,No,United States
+30.896353650724603,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United Kingdom
+31.629159990639376,Male,Greece,No,No,Not applicable,Yes,Yes,No,No,No,No,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,Other
+32.677583062860265,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,United States
+29.68621816590352,Male,United States,No,No,Not applicable,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,United States
+26.72429380654112,Male,Germany,No,No,Never,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Germany
+55.81021940586087,Male,United States,No,Yes,Rarely,No,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,United States
+19.79470438938937,Male,United States,No,No,Often,No,No,No,Yes,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Yes,United States
+28.89802192683787,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,United States
+32.283933954575595,Male,United States,No,No,Not applicable,No,No,No,No,No,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,United States
+28.208981195709804,Male,United States,No,No,Not applicable,No,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+36.19593037930955,Male,United States,No,No,Not applicable,Yes,Yes,Yes,No,No,No,Don't know,Yes,No,Some of them,No,Maybe,Yes,No,No,United States
+30.204963534312252,Male,Canada,No,Yes,Often,Yes,Yes,Don't know,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,Canada
+32.76009492691805,Male,United Kingdom,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,United Kingdom
+28.451936371504107,Male,United States,No,No,Never,No,Yes,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,No,Yes,United States
+29.3797264995926,Male,United States,No,No,Sometimes,Yes,No,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+24.655064301258967,Male,United Kingdom,Yes,No,Rarely,Yes,Yes,No,Not sure,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United Kingdom
+27.430360855348855,Male,United States,No,Yes,Sometimes,No,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,United States
+46.42113595525717,Male,United States,No,No,Often,Yes,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,United States
+42.7658088689296,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+31.332830297525778,Male,United States,No,Yes,Sometimes,No,Yes,No,No,No,No,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,United States
+19.28257697087588,Male,United Kingdom,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+30.51232291686765,Male,United States,No,No,Not applicable,No,No,Yes,No,Yes,Yes,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,United States
+30.238616461450977,Male,United Kingdom,No,Yes,Often,Yes,No,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+33.85413751723131,Male,United States,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,United States
+56.794328855097625,Male,United States,No,Yes,Never,No,Yes,Don't know,No,Yes,Yes,Don't know,No,No,No,Yes,No,No,Don't know,No,United States
+25.83860573941551,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,No,United Kingdom
+28.70289628788126,Male,United States,No,Yes,Rarely,No,Yes,No,Yes,No,No,Don't know,No,No,No,No,No,No,Don't know,No,United States
+33.980706822075014,Male,United States,No,Yes,Never,No,Yes,Don't know,Not sure,No,No,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,United States
+33.53596653938914,Male,Belgium,No,No,Not applicable,No,Yes,No,Yes,No,No,Very difficult,Yes,Maybe,No,No,No,No,No,No,Other
+33.2467988778327,Male,United States,No,No,Never,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+36.289874829562365,Male,United States,No,No,Never,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+32.175398965723474,Male,United Kingdom,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,United Kingdom
+38.40285848705234,Male,United States,No,No,Rarely,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+19.959161848866174,Male,Slovenia,No,No,Sometimes,No,Yes,Don't know,No,No,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,Other
+29.802949259895573,Male,Poland,No,No,Rarely,Yes,Yes,No,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,Other
+41.28613180577984,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,No,No,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+32.722274825610654,Male,United States,No,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,United States
+33.31989520545058,Male,Switzerland,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,Other
+29.791900486400728,Male,Singapore,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No,Yes,Other
+30.02600101299025,Male,United States,No,Yes,Rarely,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+43.28037964741425,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+34.805800865193355,Male,United States,No,Yes,Not applicable,No,Yes,Yes,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+30.619078544011813,Female,United Kingdom,No,No,Often,No,No,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Yes,No,Yes,United Kingdom
+36.61597327428021,Male,United States,No,Yes,Often,No,Yes,Yes,Yes,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+42.45191128553794,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,United States
+24.655021053739432,Male,Germany,Yes,Yes,Often,No,Yes,No,No,No,No,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,No,Yes,Germany
+25.298269386052922,Male,United Kingdom,No,Yes,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,United Kingdom
+37.73917475194073,Male,Switzerland,No,No,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Other
+42.245112666685166,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,United States
+30.11559117117044,Male,United States,No,No,Often,No,Yes,No,Yes,No,No,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+28.916507652305143,Male,Canada,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Canada
+45.2022150154929,Male,United States,No,No,Often,Yes,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,United States
+22.17585508863242,Female,Australia,No,Yes,Often,Yes,Yes,No,Not sure,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Australia
+23.286430904995044,Male,Sweden,No,No,Rarely,No,Yes,Don't know,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Other
+29.435808629455064,Male,Germany,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Somewhat easy,No,No,Some of them,No,No,No,Don't know,No,Germany
+27.756888117222367,Male,New Zealand,No,No,Sometimes,No,Yes,No,No,No,No,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Other
+32.5786312237092,Female,United States,No,Yes,Rarely,No,No,Don't know,Not sure,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,United States
+40.189567423279826,Male,United Kingdom,No,Yes,Not applicable,No,No,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United Kingdom
+23.13272378147415,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,No,United States
+40.37755797964977,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+23.60621133220116,Male,United States,No,Yes,Sometimes,Yes,No,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,United States
+31.94970056939226,Male,Ireland,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,Ireland
+26.735698073326365,Male,United States,No,No,Never,No,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+41.71371354843778,Male,United States,No,No,Rarely,Yes,No,Don't know,No,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+33.48807654129832,Male,Netherlands,Yes,No,Sometimes,No,Yes,No,No,No,No,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,No,Netherlands
+26.80943309580701,Female,United States,No,Yes,Rarely,No,Yes,Yes,Not sure,No,No,Somewhat easy,No,No,Yes,Some of them,Maybe,Maybe,Don't know,No,United States
+25.749170218901956,Male,United States,No,Yes,Sometimes,No,No,Don't know,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+23.098357845369648,Male,Canada,No,Yes,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Canada
+26.78891318671784,Male,United Kingdom,No,No,Sometimes,No,Yes,Don't know,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,United Kingdom
+26.23624220991187,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No,United States
+24.49936257653401,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+40.27634148027561,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Yes,No,No,No,No,No,No,No,United States
+32.06094684087166,Male,Ireland,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,Ireland
+26.73865326516947,Male,United States,No,Yes,Never,No,Yes,Yes,No,Don't know,Yes,Very difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,No,United States
+40.818826835738264,Male,United States,No,No,Not applicable,No,No,Yes,Not sure,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+35.07998487965966,Male,United States,No,Yes,Sometimes,No,No,Yes,Not sure,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,United States
+35.11304021502942,Male,United States,No,No,Sometimes,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,Maybe,Yes,Yes,No,United States
+27.639476825612185,Male,United States,No,No,Not applicable,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No,United States
+31.079409111612307,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,No,No,No,No,Yes,No,No,United Kingdom
+24.890819799954265,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,Don't know,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,United States
+25.621837061676253,Female,United States,No,Yes,Often,No,No,Don't know,No,No,No,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,United States
+31.80950984354931,Male,United States,No,No,Never,No,No,Yes,Not sure,Yes,Yes,Very easy,Maybe,No,No,No,No,No,Yes,No,United States
+38.549988193259246,Male,United States,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,United States
+33.097989939740145,Male,United States,No,Yes,Never,Yes,Yes,Yes,No,No,No,Don't know,Maybe,No,No,No,No,No,Don't know,No,United States
+27.203313427992736,Male,Ireland,No,Yes,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Ireland
+39.99397479363232,Male,United States,Yes,No,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+35.48076231790338,Male,Netherlands,Yes,No,Never,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Netherlands
+27.673558919819193,Male,United States,Yes,Yes,Often,Yes,Yes,No,Yes,No,No,Very easy,No,No,Yes,Yes,No,No,Yes,No,United States
+37.19893422962571,Male,Netherlands,Yes,No,Not applicable,No,Yes,No,No,Yes,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Netherlands
+44.73388383065787,Male,United Kingdom,No,Yes,Rarely,No,No,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United Kingdom
+20.160200600441755,Male,United States,No,Yes,Rarely,No,Yes,Yes,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+36.37366358108529,Male,Germany,No,No,Not applicable,No,Yes,No,No,No,No,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Germany
+46.36754226924609,Male,United States,No,Yes,Often,No,Yes,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,No,No,United States
+28.461887912776326,Male,United Kingdom,No,Yes,Often,No,Yes,No,No,No,No,Somewhat easy,Maybe,Maybe,Yes,Yes,No,No,No,No,United Kingdom
+48.03377508837383,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,United States
+40.19309052707755,Male,United Kingdom,No,No,Never,No,Yes,Don't know,Not sure,No,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Maybe,Don't know,No,United Kingdom
+25.23030359804917,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,No,United States
+25.165311918890062,Male,United States,No,Yes,Not applicable,No,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+29.60369833632019,Male,United States,No,No,Never,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+29.493403551322885,Female,Belgium,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Other
+34.879696207059375,Male,Germany,No,Yes,Often,No,Yes,Don't know,Not sure,Yes,No,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,Germany
+25.877266281808684,Male,Canada,No,No,Never,No,No,Yes,Not sure,No,No,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Canada
+31.709645151929237,Male,United Kingdom,No,Yes,Often,Yes,No,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+36.68220315604759,Male,United Kingdom,Yes,Yes,Rarely,Yes,No,No,No,No,No,Very difficult,Maybe,No,No,No,No,No,No,No,United Kingdom
+23.901592600672295,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,No,Yes,United States
+33.04736839888121,Male,United States,No,Yes,Never,No,Yes,Don't know,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+35.03054570597353,Male,United States,No,Yes,Sometimes,No,Yes,No,No,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,United States
+31.277228465636323,Female,Ireland,No,Yes,Never,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Ireland
+28.125955991200147,Male,United Kingdom,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,Yes,No,United Kingdom
+21.967487968125745,Female,United States,No,No,Not applicable,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+40.69349195728199,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+30.515960516886043,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,No,No,No,Very easy,No,No,No,Yes,No,Maybe,No,No,United Kingdom
+29.070986148995026,Male,United Kingdom,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,Yes,No,United Kingdom
+21.31458688298743,Male,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Yes,United Kingdom
+28.695711562658072,Male,United States,No,No,Not applicable,No,No,No,No,No,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,United States
+33.70183533213155,Female,Canada,Yes,Yes,Rarely,Yes,Yes,No,Yes,No,No,Somewhat easy,Yes,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Yes,Canada
+26.16951724000727,Male,Russia,No,No,Sometimes,No,Yes,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Other
+31.273920682897757,Male,United States,Yes,No,Rarely,Yes,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+22.914790316483444,Male,United States,No,Yes,Sometimes,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,United States
+44.10394572039954,Male,United Kingdom,No,Yes,Rarely,No,No,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United Kingdom
+33.87246711575393,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,Don't know,No,United States
+38.55128896525155,Male,United Kingdom,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Don't know,Yes,United Kingdom
+21.89079764882348,Male,Canada,No,No,Never,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Canada
+41.3064551310572,Male,United States,No,No,Never,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United States
+29.811775222981005,Male,United States,No,Yes,Not applicable,No,Yes,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,United States
+33.69202708934254,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+36.18108951004359,Male,United States,No,Yes,Rarely,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+41.04555590093178,Female,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,United States
+25.293146512528008,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Yes,Yes,Some of them,No,No,No,No,No,United States
+22.836298537023882,Male,United States,No,Yes,Rarely,No,Yes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,United States
+34.2032532196461,Male,United States,No,Yes,Sometimes,No,No,Yes,Yes,No,Don't know,Very easy,Yes,No,Some of them,Yes,No,Yes,No,No,United States
+36.72559397158098,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,Don't know,No,United States
+30.364481209313308,Male,Germany,Yes,No,Often,Yes,Yes,Yes,Yes,No,No,Very difficult,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Germany
+34.348884274253514,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+41.24153604693455,Male,Portugal,No,No,Not applicable,No,Yes,No,Yes,No,No,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Other
+32.12005801150402,Female,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,United States
+37.05671438446048,Male,Australia,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Australia
+39.26258256652034,Female,United States,No,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,No,Maybe,Some of them,No,No,No,Don't know,Yes,United States
+22.480721239043554,Male,Ireland,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Yes,Yes,Ireland
+32.25209930901715,Male,United States,No,Yes,Sometimes,No,Yes,No,No,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,United States
+25.684454478888625,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+41.25358631936094,Male,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+29.94059777452012,Male,Australia,No,No,Often,Yes,Yes,No,Yes,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,Australia
+30.29835452068987,Male,Germany,Yes,No,Often,Yes,Yes,Yes,Yes,No,No,Very difficult,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Germany
+42.19097585626966,Male,United States,No,No,Rarely,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,United States
+22.342143838268157,Male,Canada,No,No,Sometimes,No,Yes,Yes,Yes,No,No,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Yes,Canada
+34.036133887690184,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,United States
+38.02160643622905,Male,United States,No,No,Never,Yes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+39.15323221091692,Male,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Very easy,No,No,No,Some of them,No,Yes,Yes,No,United Kingdom
+40.888346157097935,Male,Netherlands,No,Yes,Often,Yes,Yes,No,Not sure,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Netherlands
+22.02060105094338,Male,United Kingdom,No,No,Rarely,No,Yes,No,Yes,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,United Kingdom
+21.75058655367579,Male,Germany,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Germany
+29.308814553923384,Male,United Kingdom,No,No,Not applicable,No,No,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,United Kingdom
+33.742142217622614,Female,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,No,Somewhat easy,No,No,Yes,Some of them,No,No,Yes,No,United States
+30.805536583986186,Male,United States,No,No,Rarely,No,No,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+32.005598461932806,Male,Germany,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Somewhat easy,No,No,Some of them,No,No,No,Don't know,No,Germany
+22.589490740771826,Male,United States,No,No,Rarely,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,United States
+38.229256268660535,Male,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+20.649800372257467,Male,United Kingdom,No,No,Not applicable,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,United Kingdom
+44.59481222972525,Male,New Zealand,No,No,Sometimes,No,No,No,Yes,Don't know,No,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes,Other
+34.429444119373095,Male,United Kingdom,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Yes,United Kingdom
+22.84845834555709,Male,Sweden,No,No,Rarely,No,Yes,Don't know,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Other
+20.39068920838515,Male,United Kingdom,No,No,Never,No,Yes,Yes,Not sure,Yes,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United Kingdom
+39.27897156655222,Male,Ireland,Yes,Yes,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,Ireland
+32.424542979011754,Female,Canada,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,Canada
+40.046282409374456,Male,United States,No,Yes,Not applicable,No,Yes,Don't know,No,No,No,Somewhat difficult,No,No,Some of them,Yes,No,No,Don't know,Yes,United States
+34.65053810207666,Male,United States,No,No,Never,Yes,Yes,No,No,No,No,Very easy,No,No,Yes,Yes,No,No,Don't know,No,United States
+36.26587237044538,Male,United States,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,United States
+46.1755259705675,Male,United States,No,No,Never,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United States
+36.0284237776324,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,Yes,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,United States
+40.086065352845154,Male,United Kingdom,No,No,Not applicable,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,No,Yes,United Kingdom
+29.565390288273974,Male,United States,No,No,Rarely,Yes,Yes,No,Yes,No,No,Very difficult,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+31.51491149863408,Male,Switzerland,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,Other
+43.50986076336733,Male,United Kingdom,No,No,Sometimes,No,No,No,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,United Kingdom
+23.151568869576426,Male,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Yes,United Kingdom
+42.55621203818392,Male,Germany,No,No,Not applicable,Yes,Yes,Don't know,Not sure,Yes,Yes,Very easy,No,No,Some of them,No,No,Maybe,Yes,No,Germany
+25.623026556147135,Male,Germany,No,No,Never,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Germany
+29.031373890126968,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,No,United Kingdom
+42.492207364580366,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+23.65613661927096,Male,United States,No,No,Never,No,No,Don't know,Not sure,No,No,Don't know,Maybe,Yes,Some of them,No,No,Maybe,No,No,United States
+27.82956471286912,Male,United Kingdom,No,Yes,Sometimes,No,Yes,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,United Kingdom
+34.07553191681391,Male,United States,No,No,Not applicable,Yes,Yes,Yes,No,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+38.89242565332645,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United Kingdom
+38.423245300941645,Male,United Kingdom,No,Yes,Rarely,No,Yes,No,No,No,No,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,United Kingdom
+46.88955200174247,Male,United States,No,No,Never,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Yes,Yes,No,Maybe,Yes,Yes,United States
+37.206955530626374,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,United States
+21.563393167658504,Male,United States,No,No,Often,No,No,Yes,Yes,Yes,No,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+28.385398651988424,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,No,United States
+21.476592524242896,Male,Canada,No,No,Never,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Canada
+27.651352871826706,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No,United Kingdom
+45.7896514888154,Male,United Kingdom,No,Yes,Rarely,No,No,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United Kingdom
+24.10061304551064,Male,United States,No,No,Never,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+39.09502625397864,Male,United States,No,No,Not applicable,No,No,Yes,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+31.52569458159624,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+25.863552194817412,Female,United States,No,Yes,Rarely,No,Yes,No,No,No,No,Very easy,Yes,No,No,Some of them,No,Yes,Yes,No,United States
+26.527294332151282,Male,Germany,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Germany
+33.905809405225796,Female,United States,No,No,Never,Yes,Yes,Don't know,Not sure,No,No,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,United States
+39.95170656097457,Male,Australia,No,Yes,Sometimes,No,Yes,No,Yes,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,Australia
+41.27730219264635,Male,United States,No,No,Often,Yes,Yes,Yes,Not sure,No,Yes,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+39.39547425629891,Male,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes,United States
+27.286935820111847,Male,France,No,No,Never,No,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,France
+38.56906606786779,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+31.127712602668286,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+40.40098172365558,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+27.632852146098166,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,Yes,No,No,No,No,Maybe,No,No,United States
+30.387939360658862,Male,United Kingdom,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Yes,United Kingdom
+20.79074444279654,Male,India,No,No,Never,No,Yes,Don't know,Not sure,No,No,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,Other
+19.692241510576853,Male,Ireland,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Yes,Yes,Ireland
+34.73474050944399,Male,United States,No,No,Never,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+38.24117986778142,Male,Canada,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Canada
+16.051725103328227,Female,Switzerland,No,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Other
+28.392335091157456,Female,Canada,No,No,Not applicable,No,Yes,Yes,Not sure,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Canada
+32.33353923919304,Male,Germany,Yes,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,No,No,Germany
+29.953798156074132,Male,United States,No,Yes,Sometimes,No,No,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,United States
+32.281807698818476,Male,United Kingdom,No,Yes,Often,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,Yes,United Kingdom
+15.08974994855543,Male,Georgia,No,No,Rarely,No,No,No,No,No,No,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,No,Other
+24.58246472164084,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No,United States
+24.82578231327522,Male,United States,No,Yes,Sometimes,No,No,Don't know,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+35.05498324391798,Male,Canada,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Canada
+43.66087712653817,Male,Germany,No,No,Sometimes,No,Yes,Don't know,No,No,No,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Germany
+43.27778209187355,Male,New Zealand,No,No,Sometimes,No,No,No,Yes,Don't know,No,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes,Other
+25.91685980491495,Male,United States,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,United States
+24.25861395033268,Male,United States,No,No,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United States
+38.672122102319044,Male,Italy,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Other
+27.909855616651335,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No,United States
+37.60339026989208,Female,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,United States
+26.84402632141394,Male,United States,No,Yes,Rarely,No,Yes,Don't know,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+31.93077951103819,Male,United States,No,No,Never,No,Yes,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,No,Yes,United States
+24.409220419049827,Male,United States,No,No,Never,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+33.98464043506868,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+28.894744010187598,Male,Singapore,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No,Yes,Other
+26.258270704707343,Male,France,No,No,Never,No,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,France
+35.34447849351679,Male,United States,Yes,No,Never,Yes,Yes,Don't know,No,No,No,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,United States
+26.161908589806405,Female,United States,No,No,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United States
+23.393164146975476,Male,Canada,No,No,Often,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,Canada
+22.678585503485728,Male,United Kingdom,No,No,Rarely,No,Yes,Don't know,Not sure,Yes,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,United Kingdom
+42.99329826068205,Male,United States,No,No,Not applicable,No,Yes,Yes,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+20.262892587067874,Male,Canada,Yes,Yes,Not applicable,Yes,Yes,Don't know,Not sure,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Canada
+28.126330918614347,Male,United States,No,No,Not applicable,No,No,Yes,No,No,No,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,United States
+32.54842500827604,Female,United States,Yes,No,Sometimes,No,Yes,Yes,Not sure,Don't know,No,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+28.78607282782332,Female,United States,Yes,Yes,Often,Yes,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,United States
+29.985125428184034,Male,United States,No,Yes,Sometimes,No,Yes,No,No,No,No,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,United States
+28.444406692415875,Male,Canada,No,Yes,Often,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Canada
+25.358833625662538,Male,Ireland,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Ireland
+23.714003553038243,Female,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+37.707581276354,Male,United States,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,United States
+22.82004281917111,Male,United States,No,No,Not applicable,No,Yes,Yes,Not sure,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,United States
+33.59610442021435,Female,United States,No,No,Not applicable,Yes,Yes,Yes,No,Don't know,No,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+21.743919801516995,Male,United Kingdom,No,Yes,Never,No,No,No,No,No,No,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United Kingdom
+23.80457616045318,Female,United Kingdom,No,Yes,Not applicable,No,No,No,Yes,No,No,Don't know,Maybe,No,No,No,No,Yes,Yes,No,United Kingdom
+27.29249601563771,Male,Sweden,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,No,No,No,No,Don't know,No,Other
+30.598574103325433,Male,United States,No,No,Sometimes,No,No,No,Yes,No,Don't know,Don't know,No,No,Some of them,No,No,No,No,No,United States
+27.76996397732041,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,No,No,United States
+32.322879726575394,Female,United Kingdom,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,United Kingdom
+34.37767649406557,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,United States
+31.609156740220048,Male,United States,No,Yes,Never,No,Yes,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+31.568048386147588,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United Kingdom
+37.308494627468136,Male,United Kingdom,No,No,Never,Yes,Yes,Don't know,No,No,No,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No,United Kingdom
+30.50090953563254,Male,United States,Yes,Yes,Rarely,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,United States
+28.013469324973677,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,No,No,No,Yes,Yes,No,United States
+28.320813994970226,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+25.594613957699647,Male,Ireland,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Ireland
+34.32695495833491,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+35.756549572671446,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+26.326970916062518,Male,Ireland,No,Yes,Not applicable,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Ireland
+20.35619053469529,Female,United States,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,United States
+37.50038098449529,Male,Italy,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Other
+23.317450657963427,Male,Germany,Yes,Yes,Often,No,Yes,No,No,No,No,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,No,Yes,Germany
+32.14774893466141,Male,United States,No,Yes,Not applicable,No,Yes,Yes,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+28.90768434829142,Male,Canada,No,No,Never,No,Yes,Don't know,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Canada
+31.503474198429767,Male,United States,No,No,Often,Yes,Yes,Yes,Not sure,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+44.02520994475244,Male,United States,No,No,Not applicable,No,No,Yes,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+24.203358187952077,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Very easy,Maybe,No,Some of them,No,No,No,Don't know,Yes,United States
+29.599660007196782,Male,United Kingdom,No,No,Never,No,Yes,Don't know,No,No,No,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,No,United Kingdom
+20.51039418458538,Male,United States,No,Yes,Never,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,No,No,United States
+36.07914481280029,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+39.281125451950196,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+32.16826531717643,Male,United States,No,Yes,Rarely,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,United States
+46.505404297145255,Female,United States,No,No,Rarely,No,No,Don't know,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+53.592917867997116,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,No,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,United States
+38.80908674802175,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,Yes,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,United States
+26.789182017630875,Male,United States,Yes,No,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,Don't know,No,United States
+53.075928056996226,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,United States
+31.745378916645393,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+38.458955578331796,Male,Ireland,Yes,Yes,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,Ireland
+32.035906410343564,Male,United States,No,No,Often,Yes,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United States
+33.09933806360657,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+31.366828499078373,Male,Canada,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Somewhat difficult,Maybe,Maybe,Yes,Yes,No,Maybe,Don't know,No,Canada
+38.603714664080336,Male,Ireland,No,Yes,Sometimes,No,Yes,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Ireland
+45.89946519120246,Male,United States,No,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat easy,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+32.93059335994022,Male,Australia,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Australia
+39.245599662927845,Male,United States,No,No,Sometimes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Don't know,No,United States
+28.379441767116116,Male,United States,No,No,Rarely,No,Yes,Don't know,No,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+32.25842526260055,Female,United States,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,Don't know,Very difficult,No,No,Some of them,No,No,No,Don't know,No,United States
+28.126971965006526,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United States
+29.414423366024764,Male,Netherlands,No,No,Not applicable,No,Yes,No,Not sure,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Netherlands
+37.384428766640376,Male,Canada,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Canada
+40.90912696459931,Male,United States,No,No,Never,No,Yes,Yes,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+25.993880136556808,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No,United Kingdom
+25.751941412718914,Male,United States,No,No,Never,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+31.18792841099545,Male,Croatia,No,Yes,Sometimes,Yes,Yes,Yes,Yes,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Other
+23.596355415669393,Male,United Kingdom,No,No,Sometimes,No,No,Don't know,Not sure,No,No,Very easy,Yes,No,Some of them,No,No,Maybe,No,No,United Kingdom
+25.162650485936364,Male,United States,No,No,Never,No,No,Yes,Yes,Yes,No,Very easy,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,United States
+56.476067127362896,Male,United States,No,Yes,Rarely,No,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,United States
+27.938984754123688,Female,United States,No,No,Sometimes,No,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,United States
+62.52152387145237,Male,United States,No,Yes,Rarely,No,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,United States
+22.863589401280237,Male,United States,Yes,Yes,Often,No,Yes,Yes,Not sure,Yes,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+32.96029321690249,Female,United Kingdom,No,No,Sometimes,No,No,No,Yes,No,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,United Kingdom
+24.6187028556426,Female,United States,No,Yes,Sometimes,No,Yes,Yes,No,No,No,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,United States
+44.553303252797676,Male,Ireland,Yes,Yes,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,Ireland
+35.86203867930842,Male,United States,No,No,Never,No,No,Don't know,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,United States
+43.38836392510214,Male,Germany,No,No,Sometimes,No,Yes,Don't know,No,No,No,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Germany
+24.271595033024123,Male,Canada,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Canada
+19.881215739060114,Male,India,No,No,Never,No,Yes,Don't know,Not sure,No,No,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,Other
+29.044639708211587,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,No,No,No,No,No,Maybe,Don't know,No,United States
+31.356753727908075,Male,United States,No,No,Rarely,Yes,Yes,No,Yes,No,No,Very difficult,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+21.635931233601372,Female,United Kingdom,No,Yes,Never,No,No,No,No,No,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Don't know,No,United Kingdom
+42.673065326595584,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,United States
+26.417751222102588,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,No,United States
+31.240451266868426,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+29.22892352006418,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,No,Yes,Don't know,No,No,Yes,Yes,Maybe,No,Yes,No,United States
+57.93081594887076,Female,United States,Yes,No,Rarely,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,United States
+24.942675993325675,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes,United States
+26.50575135522794,Male,United States,No,Yes,Sometimes,No,No,Don't know,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+22.555210560224314,Male,Canada,No,No,Never,No,Yes,Don't know,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Canada
+24.27818023829071,Male,United Kingdom,Yes,No,Not applicable,Yes,Yes,No,Yes,No,No,Very easy,Maybe,Maybe,No,No,No,No,Yes,No,United Kingdom
+30.436197096503367,Male,United States,No,No,Rarely,No,Yes,Yes,No,No,No,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+30.412047319932828,Female,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+36.71297531128918,Female,United States,No,No,Often,Yes,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,United States
+26.917420343118025,Male,Canada,No,Yes,Often,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Canada
+29.465950358522964,Female,United States,No,No,Rarely,No,Yes,Yes,No,No,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,No,Yes,United States
+45.43151201601249,Male,Germany,No,No,Not applicable,Yes,Yes,Don't know,Not sure,Yes,Yes,Very easy,No,No,Some of them,No,No,Maybe,Yes,No,Germany
+25.01234071757152,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,No,No,United States
+31.49250663834483,Male,United States,Yes,Yes,Rarely,Yes,Yes,No,Yes,No,No,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+23.768884223371295,Male,United States,No,Yes,Not applicable,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+25.04424071451016,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No,United Kingdom
+21.35006324613503,Female,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,United States
+34.27326296882563,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+24.219705893909488,Male,Ireland,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Yes,Yes,Ireland
+21.233685509807046,Male,United States,No,Yes,Sometimes,Yes,No,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,United States
+22.13034847617951,Female,United Kingdom,No,Yes,Sometimes,No,Yes,No,Yes,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United Kingdom
+39.020282920857234,Male,Australia,No,Yes,Sometimes,No,Yes,No,Yes,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,Australia
+32.97451169902326,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,United States
+35.47949987975652,Male,Australia,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Australia
+39.459085533271626,Male,Canada,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Canada
+33.10504817051677,Male,United Kingdom,Yes,Yes,Not applicable,No,Yes,No,Yes,No,No,Somewhat easy,No,No,No,Yes,No,Maybe,No,No,United Kingdom
+31.644428917015293,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,United States
+29.540850434233285,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,United States
+31.378072406429943,Male,India,No,No,Often,No,Yes,No,No,No,No,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Other
+29.521057974148032,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,No,United States
+32.94479328567871,Male,United Kingdom,No,Yes,Rarely,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,United Kingdom
+29.931186627953263,Male,United States,No,No,Not applicable,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,No,No,No,Some of them,No,No,Yes,No,United States
+30.379380826717448,Female,New Zealand,No,Yes,Rarely,Yes,Yes,No,No,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,Other
+47.589826661512554,Male,United States,Yes,No,Never,No,Yes,No,Yes,No,No,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,United States
+30.39688990566337,Male,Ireland,No,No,Rarely,No,Yes,Don't know,No,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Ireland
+47.05224486307945,Female,United States,No,No,Not applicable,Yes,Yes,Don't know,No,No,Don't know,Very difficult,Yes,Yes,No,No,No,No,No,No,United States
+27.099797732619553,Female,United States,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,No,No,Some of them,No,No,No,No,United States
+29.298119284209463,Male,United States,No,Yes,Sometimes,No,No,No,Yes,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+28.162590318387103,Male,United States,No,No,Not applicable,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,United States
+34.96213730734941,Female,United States,No,No,Often,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,United States
+26.215631502352664,Male,Australia,No,No,Sometimes,No,Yes,No,No,No,No,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Australia
+22.350641455027063,Male,Singapore,No,No,Sometimes,Yes,Yes,No,No,No,No,Don't know,Yes,No,Some of them,Yes,No,No,No,No,Other
+30.772896394032518,Female,United States,No,Yes,Sometimes,Yes,No,Don't know,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+24.49499559367442,Male,United States,No,No,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United States
+27.062914168231384,Female,United States,No,No,Often,Yes,Yes,Yes,Not sure,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,Yes,United States
+29.871414625779003,Male,United States,No,Yes,Rarely,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+28.18361154916135,Male,Netherlands,No,No,Not applicable,No,Yes,No,Not sure,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Netherlands
+24.0489389116713,Male,Canada,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Canada
+40.61558338999214,Male,United States,No,No,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+33.7799237898171,Male,Germany,No,No,Not applicable,No,Yes,Yes,Yes,No,No,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Germany
+32.34316105376502,Male,United States,No,No,Rarely,No,No,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+24.99875943885412,Male,United States,No,No,Rarely,No,Yes,No,Yes,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+30.26278562146879,Male,United Kingdom,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Yes,United Kingdom
+34.926522919516984,Male,France,Yes,Yes,Not applicable,Yes,Yes,No,No,Yes,No,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,France
+27.340765316387184,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,Don't know,Yes,United States
+38.2376040500412,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+28.644206714038855,Male,United Kingdom,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+22.556955806630565,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,No,United States
+30.789873848016192,Male,United Kingdom,No,Yes,Rarely,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,United Kingdom
+27.806347925213178,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,United States
+29.04661520177174,Male,Canada,Yes,No,Never,Yes,Yes,Yes,Yes,No,No,Very difficult,Yes,No,Some of them,No,No,Yes,No,No,Canada
+29.627361848701767,Female,United Kingdom,No,No,Not applicable,No,Yes,Don't know,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United Kingdom
+35.761770143946585,Male,Canada,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Canada
+22.633484117608877,Male,Austria,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,No,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Other
+49.39393671800394,Male,United States,No,Yes,Not applicable,Yes,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+33.41858498945924,Male,United States,No,Yes,Never,No,Yes,Don't know,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+26.53931550269125,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+29.187450541220432,Male,United States,Yes,Yes,Often,No,Yes,Yes,Not sure,Yes,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+46.31176981764892,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+31.8997616486495,Male,United Kingdom,Yes,No,Rarely,No,Yes,No,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,United Kingdom
+25.00032617735291,Male,United States,No,No,Not applicable,No,No,Yes,No,No,No,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,United States
+33.36088647536184,Male,United States,No,No,Sometimes,Yes,Yes,Don't know,No,No,No,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+31.749668876538262,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+26.558060850925077,Male,United States,Yes,Yes,Rarely,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,United States
+21.705494240204985,Male,United States,No,No,Rarely,Yes,Yes,No,Yes,No,No,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,United States
+33.992591038653714,Male,United States,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+25.78147616754978,Male,United States,No,Yes,Sometimes,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,United States
+32.3413380033604,Male,United States,No,Yes,Never,No,Yes,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+33.45880021667326,Male,United States,Yes,No,Rarely,Yes,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+35.33824810019818,Female,United States,No,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,United States
+30.038107745483817,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,United States
+32.13741802202186,Male,United States,No,No,Never,No,No,Yes,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+26.49596086812383,Male,United States,No,Yes,Not applicable,No,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+42.45452281826913,Male,Germany,No,No,Not applicable,Yes,Yes,Don't know,Not sure,Yes,Yes,Very easy,No,No,Some of them,No,No,Maybe,Yes,No,Germany
+34.23605742196724,Male,United States,No,Yes,Often,Yes,Yes,No,Yes,No,No,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,United States
+27.648027454051206,Female,United States,No,Yes,Rarely,Yes,No,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,United States
+31.429293714975895,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+21.916201751222903,Male,Germany,Yes,Yes,Often,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,No,Maybe,Yes,Yes,Maybe,Yes,Don't know,No,Germany
+24.94667574051332,Male,Netherlands,No,No,Never,Yes,Yes,No,No,No,No,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Netherlands
+31.204257841742066,Male,Germany,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Somewhat easy,No,No,Some of them,No,No,No,Don't know,No,Germany
+39.82275239160913,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+29.903028125885907,Male,United Kingdom,No,No,Never,No,Yes,Don't know,No,No,No,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United Kingdom
+45.05767659082562,Male,United States,No,Yes,Never,No,No,Yes,Yes,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+33.93356510052973,Male,United States,Yes,Yes,Rarely,Yes,Yes,No,Yes,Yes,Yes,Very difficult,No,No,Yes,Yes,No,No,Yes,Yes,United States
+22.778311088876507,Female,India,Yes,No,Sometimes,No,No,No,No,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Other
+40.763204198907545,Male,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+38.40052284678159,Male,United Kingdom,No,No,Sometimes,No,No,Don't know,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+33.10863777290847,Male,Germany,No,Yes,Often,No,Yes,Don't know,Not sure,Yes,No,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,Germany
+32.68268900826283,Male,United States,No,Yes,Often,Yes,Yes,No,Yes,No,No,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,United States
+26.12726648073711,Male,United States,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,United States
+30.628407465900903,Male,United States,No,No,Not applicable,No,No,Yes,No,Yes,Yes,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,United States
+43.08200374520726,Male,New Zealand,No,No,Sometimes,No,No,No,Yes,Don't know,No,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes,Other
+27.203528145975252,Male,Israel,No,No,Not applicable,No,Yes,No,No,No,No,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,Other
+38.71326676436691,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+27.564412752476734,Male,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+34.09147026508068,Female,Germany,No,No,Sometimes,No,Yes,No,No,No,No,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,Germany
+19.29801073380065,Male,United Kingdom,No,No,Not applicable,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,United Kingdom
+37.2595811543735,Male,Canada,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Canada
+38.40092215753463,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,Yes,United States
+28.538354365086256,Male,United States,No,Yes,Rarely,No,Yes,Don't know,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+28.796225577597532,Female,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+32.20247645428408,Male,Germany,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Very easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Germany
+35.886768058406396,Female,United Kingdom,No,No,Sometimes,No,Yes,Yes,Yes,No,Yes,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,United Kingdom
+32.330392323562045,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United States
+30.28548953834644,Female,United States,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,Some of them,No,No,No,No,No,United States
+30.492257931872025,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,Yes,Very difficult,Maybe,No,Some of them,Some of them,Yes,Yes,No,Yes,United States
+33.03138163882726,Male,United States,No,Yes,Sometimes,Yes,No,Yes,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+24.952292221440132,Female,United States,No,No,Not applicable,No,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,No,Some of them,No,No,Yes,No,United States
+17.708446940969363,Male,United States,No,No,Often,No,No,No,Yes,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Yes,United States
+32.96023677942227,Male,United States,No,Yes,Never,No,Yes,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+23.837529653834334,Male,United States,No,Yes,Often,Yes,Yes,Yes,Yes,No,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+38.7605924985065,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+23.020921112616993,Male,United States,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,United States
+32.859695457307936,Male,Netherlands,No,No,Not applicable,No,Yes,No,Not sure,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Netherlands
+36.7096903447465,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+42.34715862628202,Female,United States,No,No,Sometimes,No,Yes,Yes,No,No,No,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,United States
+26.520251447073225,Male,Russia,No,No,Sometimes,No,Yes,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Other
+27.057285260606132,Male,Ireland,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Ireland
+49.65026729726354,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,United States
+36.56788775853201,Male,United Kingdom,No,No,Sometimes,No,No,Don't know,Not sure,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,United Kingdom
+20.026458434599327,Male,United States,No,Yes,Rarely,No,Yes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,United States
+23.73699835723167,Female,United States,No,Yes,Often,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,United States
+35.5576053365484,Male,United States,No,No,Sometimes,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+34.35084215060023,Male,United Kingdom,No,No,Not applicable,Yes,Yes,No,No,No,No,Somewhat difficult,Yes,Maybe,No,No,No,Yes,No,Yes,United Kingdom
+24.817371008248188,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+27.27320954340912,Male,Canada,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Canada
+31.927447714780865,Male,United Kingdom,No,Yes,Often,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,Yes,United Kingdom
+55.32747442777604,Male,United States,No,Yes,Never,No,Yes,Don't know,No,Yes,Yes,Don't know,No,No,No,Yes,No,No,Don't know,No,United States
+41.651020235013725,Female,United States,No,No,Never,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,United States
+22.882721301205837,Male,United Kingdom,No,No,Never,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,United Kingdom
+28.648797398577933,Male,United States,No,No,Not applicable,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,United States
+23.11211329565771,Male,India,No,No,Never,No,Yes,Don't know,Not sure,No,No,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,Other
+55.71592294645123,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,United States
+33.82474922792574,Female,Canada,No,No,Often,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Canada
+33.22098107739894,Female,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+23.927096519019543,Female,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+47.52364082586822,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+31.864489873651614,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,United States
+41.01932491679208,Male,United Kingdom,No,No,Sometimes,No,No,Don't know,Not sure,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,United Kingdom
+20.86887255026995,Male,United States,No,Yes,Rarely,No,Yes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,United States
+41.88692768373073,Male,United States,No,No,Not applicable,No,No,Yes,Not sure,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+38.625948303633706,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+32.61444042552279,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+23.048040383416666,Male,United States,No,No,Never,No,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+40.90206859604004,Male,Italy,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Other
+33.681886139874415,Male,United States,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,Don't know,No,United States
+33.16800721112739,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United States
+46.911010507200245,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,United States
+19.715746913407653,Male,Austria,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,No,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Other
+24.285451160516548,Male,Canada,No,Yes,Often,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Canada
+30.626593153166155,Female,United States,No,Yes,Rarely,No,Yes,Yes,Not sure,Don't know,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,United States
+40.7413947788915,Male,United States,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,No,Very easy,Yes,Yes,Some of them,No,No,No,Yes,No,United States
+27.96778463448378,Male,United States,No,No,Rarely,Yes,Yes,No,Yes,No,No,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,United States
+34.71505248767444,Male,United States,No,Yes,Often,No,Yes,Yes,Yes,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+29.011879673067448,Male,United States,No,No,Not applicable,No,No,Yes,No,No,No,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,United States
+32.737118255958386,Male,Switzerland,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,No,No,No,Maybe,Don't know,No,Other
+54.00685816520375,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,No,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,United States
+29.3445584721737,Female,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+30.90038273634685,Male,United Kingdom,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+27.43939669228619,Male,Singapore,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,Other
+48.12811589860069,Male,United Kingdom,No,Yes,Rarely,No,Yes,No,No,No,No,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,United Kingdom
+26.883400790081748,Male,Netherlands,No,Yes,Not applicable,No,Yes,No,No,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Netherlands
+25.438886633579035,Male,United Kingdom,No,No,Not applicable,No,No,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,United Kingdom
+26.306799475829774,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Very easy,Maybe,No,Some of them,No,No,No,Don't know,Yes,United States
+30.8664096539078,Male,United States,No,No,Rarely,No,Yes,Yes,Not sure,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United States
+26.380045683435213,Female,Canada,No,No,Rarely,Yes,No,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,No,Yes,No,Maybe,Don't know,No,Canada
+27.16709646957502,Male,United Kingdom,No,Yes,Rarely,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,United Kingdom
+43.75225960797976,Male,United Kingdom,No,Yes,Rarely,No,No,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United Kingdom
+27.8433721541454,Male,Netherlands,No,Yes,Not applicable,No,Yes,No,No,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Netherlands
+39.28207331164513,Male,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Very easy,No,No,No,Some of them,No,Yes,Yes,No,United Kingdom
+35.67674850907506,Male,United States,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,United States
+34.46128182052873,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,United States
+35.998634412499605,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+18.29575055939265,Male,Canada,Yes,Yes,Not applicable,Yes,Yes,Don't know,Not sure,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Canada
+29.460974429207006,Male,Latvia,No,No,Not applicable,No,Yes,No,Yes,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Other
+20.723930170120312,Male,Canada,Yes,Yes,Not applicable,Yes,Yes,Don't know,Not sure,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Canada
+39.10879043169823,Male,Germany,No,No,Not applicable,Yes,Yes,No,Not sure,No,No,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,Germany
+26.26359920008971,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,United States
+35.67539487680098,Male,Ireland,No,Yes,Never,Yes,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Ireland
+30.912924376329777,Male,United Kingdom,No,Yes,Often,Yes,No,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+41.77401643626383,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+27.54801157017114,Male,New Zealand,No,No,Rarely,No,Yes,No,Yes,No,Yes,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,Other
+36.76200404853821,Male,Netherlands,Yes,No,Never,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Netherlands
+26.14133561179545,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,No,No,United States
+26.95918590168173,Male,Ireland,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Ireland
+29.047398718062343,Male,Ireland,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,Ireland
+36.61346765058042,Male,United States,No,No,Not applicable,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,No,Yes,No,No,Don't know,No,United States
+31.745162231245047,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+39.1880980312419,Male,United States,No,No,Not applicable,Yes,Yes,Yes,No,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+36.446174603800785,Male,United States,No,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,Yes,United States
+35.14274471937757,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,No,Yes,Don't know,No,No,Yes,Yes,Maybe,No,Yes,No,United States
+28.520531116735455,Female,United States,No,Yes,Often,Yes,No,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,No,Yes,No,United States
+29.866289538463818,Male,Sweden,No,No,Rarely,No,Yes,No,Yes,No,No,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Other
+32.83767882773697,Male,United States,Yes,Yes,Sometimes,Yes,Yes,Yes,Yes,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,No,No,United States
+25.347296573000445,Male,United States,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,Don't know,No,United States
+30.266053602239236,Male,United States,No,Yes,Sometimes,No,Yes,No,No,No,No,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,United States
+38.51439656218628,Male,United States,No,No,Never,Yes,Yes,No,Yes,No,No,Don't know,Yes,Yes,No,No,No,No,Don't know,No,United States
+28.223578489105506,Male,United States,Yes,No,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,Don't know,No,United States
+29.550129899622096,Male,United States,No,No,Never,No,No,Yes,Not sure,Yes,Yes,Very easy,Maybe,No,No,No,No,No,Yes,No,United States
+18.16690835044912,Male,United States,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+41.9081746622858,Male,United Kingdom,No,No,Sometimes,No,No,No,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,United Kingdom
+36.64108143599642,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+22.12723551990034,Male,Netherlands,No,Yes,Sometimes,Yes,Yes,No,Not sure,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Netherlands
+35.33682675147368,Male,South Africa,No,Yes,Often,No,No,No,Yes,No,No,Somewhat easy,No,No,Some of them,Yes,No,Yes,Yes,No,Other
+33.97616399359246,Male,United Kingdom,No,Yes,Not applicable,No,No,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United Kingdom
+30.151922836001003,Male,Canada,No,Yes,Often,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Canada
+28.99712967773016,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Yes,United States
+24.862418307130245,Female,United States,Yes,No,Often,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Yes,United States
+32.65617325785649,Male,United States,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,No,Very easy,Maybe,Maybe,Yes,Yes,No,No,Yes,No,United States
+29.864617462381542,Male,United Kingdom,No,No,Not applicable,No,No,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,United Kingdom
+32.667287062901195,Male,United States,No,No,Never,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+28.58598705490391,Male,United Kingdom,No,No,Not applicable,No,No,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Some of them,Yes,Yes,No,No,United Kingdom
+23.626716965269907,Male,Uruguay,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,No,Don't know,No,No,Some of them,No,No,Yes,Don't know,No,Other
+32.96454378140589,Male,United States,No,No,Rarely,Yes,Yes,No,Yes,No,No,Very difficult,Maybe,No,Yes,Some of them,No,Yes,Don't know,No,United States
+24.751803851339652,Male,United States,No,No,Not applicable,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,United States
+29.562054954927746,Male,United States,No,No,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+27.86666117497979,Male,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+40.27593339804193,Male,United States,No,Yes,Sometimes,No,Yes,Yes,No,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Yes,United States
+34.001405520856004,Female,United States,No,No,Sometimes,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,No,Maybe,Yes,No,United States
+29.145428748784536,Male,United States,No,Yes,Rarely,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+28.681054500503112,Male,United States,No,No,Rarely,No,Yes,Yes,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+23.76335315463802,Male,United States,No,No,Never,No,No,Don't know,Not sure,No,No,Don't know,Maybe,Yes,Some of them,No,No,Maybe,No,No,United States
+21.896482030589397,Male,Netherlands,Yes,No,Never,No,Yes,Don't know,Not sure,No,No,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,No,Yes,Netherlands
+33.22013493738676,Male,Netherlands,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,Don't know,No,Netherlands
+45.0952071036287,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+22.798354019629585,Male,United States,No,Yes,Sometimes,Yes,No,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,United States
+35.03727929522714,Male,United States,No,No,Not applicable,No,No,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+26.689780465618135,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+37.05170883775309,Male,Portugal,No,No,Not applicable,No,Yes,No,Yes,No,No,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Other
+35.610385349561895,Male,United States,No,No,Never,No,Yes,No,No,No,No,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+45.682651112578725,Male,United States,No,No,Rarely,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,United States
+24.825461164467644,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Yes,Yes,Some of them,No,No,No,No,No,United States
+28.611470599052236,Male,Germany,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Germany
+32.25135756873926,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+35.12713143877204,Male,United States,No,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,United States
+28.290751634133013,Male,United States,No,No,Not applicable,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No,United States
+34.135706947542545,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,United States
+42.41139484967296,Male,United States,No,Yes,Sometimes,No,No,Yes,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Yes,United States
+22.703095917651776,Female,Netherlands,No,No,Often,No,Yes,No,No,No,No,Don't know,No,No,No,Some of them,No,Yes,Don't know,No,Netherlands
+39.95400743879015,Male,United States,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,United States
+35.90458692207442,Male,United States,No,No,Never,No,Yes,No,No,No,No,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+21.907479657938207,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,No,United States
+30.592605015934787,Male,United Kingdom,No,No,Never,No,Yes,Don't know,No,No,No,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,No,United Kingdom
+39.691926568066535,Male,United States,No,No,Not applicable,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,No,Yes,No,No,Don't know,No,United States
+27.89674305541546,Male,United States,No,No,Rarely,No,Yes,Don't know,No,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+30.558419162127123,Male,United States,No,No,Rarely,No,Yes,Yes,Not sure,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United States
+29.085217671272975,Female,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,No,United States
+24.33451105842343,Male,Germany,No,Yes,Sometimes,No,Yes,No,Not sure,No,No,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,Germany
+38.15989184738105,Female,United States,No,Yes,Rarely,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+22.1760780469115,Male,United States,No,Yes,Never,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,No,No,United States
+26.61823917542758,Female,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,No,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,No,No,United States
+25.623384112238053,Male,India,No,No,Never,No,Yes,Don't know,Not sure,No,No,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,Other
+29.248949946376268,Male,United States,No,No,Sometimes,No,No,No,Yes,No,Don't know,Don't know,No,No,Some of them,No,No,No,No,No,United States
+42.17537376253028,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Yes,Some of them,No,No,Yes,No,United States
+37.211156305842955,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+28.03777399044496,Male,Uruguay,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,No,Don't know,No,No,Some of them,No,No,Yes,Don't know,No,Other
+38.86496383490501,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+33.367171490402164,Male,United Kingdom,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,United Kingdom
+28.150165642071926,Male,United Kingdom,No,Yes,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,United Kingdom
+45.96022054101842,Male,United States,No,No,Rarely,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,United States
+39.57394791690787,Male,United Kingdom,No,No,Sometimes,No,No,Don't know,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+53.568628946197485,Male,United States,No,Yes,Never,No,Yes,Don't know,No,Yes,Yes,Don't know,No,No,No,Yes,No,No,Don't know,No,United States
+34.155633781762276,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,United States
+27.009289272151968,Male,Netherlands,No,No,Never,Yes,Yes,No,No,No,No,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Netherlands
+22.878605515362942,Male,Netherlands,Yes,No,Never,No,Yes,Don't know,Not sure,No,No,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,No,Yes,Netherlands
+24.740966903901832,Male,Canada,No,Yes,Often,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Canada
+29.339305778941704,Male,Netherlands,No,No,Never,Yes,Yes,No,No,No,No,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Netherlands
+24.915085272396162,Male,France,No,No,Not applicable,No,Yes,No,No,Yes,No,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,France
+34.62512119272613,Male,Germany,No,Yes,Often,No,Yes,Don't know,Not sure,Yes,No,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,Germany
+25.13958762380754,Male,United States,No,No,Not applicable,No,Yes,Yes,Not sure,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,United States
+26.17888431052024,Male,Germany,No,No,Never,No,Yes,No,No,No,No,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Don't know,No,Germany
+23.040803927364223,Male,Slovenia,No,No,Sometimes,No,Yes,Don't know,No,No,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,Other
+34.55436315871749,Male,Ireland,No,Yes,Never,Yes,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Ireland
+38.4644305049713,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+30.302738949140753,Male,Italy,No,No,Sometimes,No,No,Don't know,No,No,No,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Other
+38.761285263922716,Male,United Kingdom,No,Yes,Rarely,No,Yes,No,No,No,No,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,United Kingdom
+27.874012656928667,Male,United States,No,No,Never,No,Yes,Yes,Not sure,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+36.84326943670769,Male,United States,No,Yes,Not applicable,No,Yes,Yes,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+40.24876411720042,Male,United States,No,Yes,Not applicable,No,No,Yes,Yes,No,No,Very easy,Maybe,No,No,No,No,No,No,No,United States
+21.421877486134004,Male,Uruguay,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,No,Don't know,No,No,Some of them,No,No,Yes,Don't know,No,Other
+40.986766600823046,Female,United States,No,No,Never,No,No,Don't know,Not sure,No,No,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+30.6192014313965,Male,United Kingdom,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,United Kingdom
+25.13258285507623,Male,Germany,No,No,Never,No,Yes,No,No,No,No,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Don't know,No,Germany
+37.95144544021612,Male,Canada,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Canada
+24.785360973307377,Male,New Zealand,No,No,Rarely,No,Yes,No,Yes,No,Yes,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,Other
+40.69940925462139,Male,United Kingdom,No,Yes,Not applicable,No,No,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United Kingdom

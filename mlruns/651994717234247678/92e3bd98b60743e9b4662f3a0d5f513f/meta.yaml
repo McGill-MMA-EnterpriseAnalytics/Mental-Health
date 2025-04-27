@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/qianzhao/Desktop/Enterprise/formal%20version/mlruns/651994717234247678/92e3bd98b60743e9b4662f3a0d5f513f/artifacts
+end_time: 1745700365174
+entry_point_name: ''
+experiment_id: '651994717234247678'
+lifecycle_stage: active
+run_id: 92e3bd98b60743e9b4662f3a0d5f513f
+run_name: gregarious-boar-888
+run_uuid: 92e3bd98b60743e9b4662f3a0d5f513f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745700363714
+status: 3
+tags: []
+user_id: qianzhao

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/qianzhao/Desktop/Enterprise/formal%20version/mlruns/651994717234247678/df00d11b531a41e8bf99cdc57a821dfe/artifacts
+end_time: 1745698140942
+entry_point_name: ''
+experiment_id: '651994717234247678'
+lifecycle_stage: active
+run_id: df00d11b531a41e8bf99cdc57a821dfe
+run_name: capricious-wolf-636
+run_uuid: df00d11b531a41e8bf99cdc57a821dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745698139449
+status: 3
+tags: []
+user_id: qianzhao

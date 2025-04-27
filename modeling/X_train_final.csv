@@ -1,0 +1,726 @@
+Age,Gender,Country,self_employed,family_history,work_interfere,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,Country_grouped
+39.0,Male,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Very easy,No,No,No,Some of them,No,Yes,Yes,No,United Kingdom
+31.0,Female,Belgium,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Other
+33.0,Female,United States,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,Some of them,No,No,No,No,No,United States
+25.0,Male,United States,No,No,Never,No,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+26.0,Male,Netherlands,No,No,Never,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Netherlands
+24.0,Male,Austria,Yes,No,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Other
+45.0,Male,United Kingdom,No,Yes,Rarely,No,No,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United Kingdom
+55.0,Male,United Kingdom,No,No,Often,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,Some of them,No,Maybe,No,Yes,United Kingdom
+25.0,Male,Germany,No,No,Not applicable,No,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,Yes,Yes,Yes,No,Germany
+35.0,Female,United States,No,Yes,Sometimes,Yes,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,United States
+27.0,Female,United States,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,Don't know,Very difficult,No,No,Some of them,No,No,No,Don't know,No,United States
+24.0,Male,United States,No,No,Not applicable,No,Yes,Yes,Not sure,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,United States
+24.0,Male,United States,No,No,Never,No,No,Don't know,Not sure,No,No,Don't know,Maybe,Yes,Some of them,No,No,Maybe,No,No,United States
+34.0,Male,United States,No,Yes,Never,Yes,Yes,Yes,No,No,No,Don't know,Maybe,No,No,No,No,No,Don't know,No,United States
+37.0,Male,United Kingdom,No,No,Often,No,Yes,No,No,No,No,Don't know,Yes,No,Yes,Yes,Maybe,Yes,No,No,United Kingdom
+29.0,Male,Sweden,No,No,Rarely,No,Yes,No,Yes,No,No,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Other
+34.0,Male,United States,Yes,Yes,Sometimes,No,Yes,No,Yes,No,No,Somewhat easy,No,No,Some of them,Some of them,No,No,No,No,United States
+27.0,Female,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+23.0,Female,United Kingdom,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,United Kingdom
+28.0,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+33.0,Male,United States,No,Yes,Sometimes,No,No,Yes,Not sure,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,United States
+24.0,Female,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United Kingdom
+23.0,Male,Germany,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Germany
+21.0,Male,United Kingdom,No,No,Sometimes,No,No,Don't know,Not sure,No,No,Very easy,Yes,No,Some of them,No,No,Maybe,No,No,United Kingdom
+45.0,Male,United States,No,No,Often,Yes,Yes,Yes,Not sure,No,Yes,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+31.0,Male,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+36.0,Male,South Africa,No,Yes,Often,No,No,No,Yes,No,No,Somewhat easy,No,No,Some of them,Yes,No,Yes,Yes,No,Other
+31.0,Female,United States,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+29.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,No,United States
+43.0,Male,United States,No,No,Not applicable,No,No,Yes,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+28.0,Male,United States,No,No,Rarely,No,Yes,Don't know,No,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+33.0,Male,Canada,No,No,Not applicable,No,Yes,Yes,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Canada
+29.0,Male,Canada,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Somewhat difficult,Maybe,Maybe,Yes,Yes,No,Maybe,Don't know,No,Canada
+28.0,Female,United States,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,No,No,Some of them,No,No,No,No,United States
+41.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,United States
+40.0,Female,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,United States
+24.0,Male,France,No,No,Not applicable,No,Yes,No,No,Yes,No,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,France
+39.0,Male,United States,No,No,Rarely,Yes,No,Don't know,No,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+40.0,Male,Ireland,Yes,Yes,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,Ireland
+32.0,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,No,No,No,No,Yes,No,No,United Kingdom
+39.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+62.0,Male,United States,No,No,Never,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+29.0,Male,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United States
+36.0,Male,United States,No,No,Never,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+34.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,United States
+29.0,Male,United States,No,No,Not applicable,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No,United States
+38.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Yes,No,No,No,No,No,No,No,United States
+24.0,Female,United Kingdom,No,Yes,Often,Yes,Yes,No,No,No,No,Very easy,No,No,Yes,Yes,No,No,Don't know,No,United Kingdom
+36.0,Male,United States,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,United States
+34.0,Male,Netherlands,No,No,Rarely,No,Yes,Don't know,Not sure,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Netherlands
+35.0,Female,Ireland,No,No,Rarely,No,Yes,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Ireland
+27.0,Male,New Zealand,No,No,Rarely,No,Yes,No,Yes,No,Yes,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,Other
+25.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Yes,No,No,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+36.0,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,Yes,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,United States
+32.0,Male,United Kingdom,Yes,Yes,Not applicable,No,Yes,No,Yes,No,No,Somewhat easy,No,No,No,Yes,No,Maybe,No,No,United Kingdom
+32.0,Male,United States,No,No,Never,No,No,Yes,Not sure,Yes,Yes,Very easy,Maybe,No,No,No,No,No,Yes,No,United States
+25.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+35.0,Female,United States,No,Yes,Sometimes,Yes,Yes,No,No,No,No,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No,United States
+31.0,Male,United States,Yes,No,Never,Yes,Yes,No,No,No,No,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,Yes,No,United States
+41.0,Male,United States,No,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,Yes,United States
+22.0,Male,India,No,No,Never,No,Yes,Don't know,Not sure,No,No,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,Other
+29.0,Male,Netherlands,No,Yes,Not applicable,No,Yes,No,No,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Netherlands
+32.0,Male,United Kingdom,Yes,No,Rarely,No,Yes,No,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,United Kingdom
+30.0,Male,United States,Yes,No,Never,Yes,Yes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+28.0,Male,United States,No,No,Not applicable,No,No,Yes,No,No,No,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,United States
+48.0,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,No,No,No,Don't know,Maybe,Maybe,No,No,No,No,No,No,United Kingdom
+32.0,Male,United Kingdom,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,United Kingdom
+25.0,Male,United States,No,Yes,Sometimes,No,No,Don't know,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+32.0,Male,United Kingdom,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,United Kingdom
+25.0,Female,Sweden,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,No,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,Other
+22.0,Male,Austria,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,No,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Other
+25.0,Male,Canada,No,No,Not applicable,No,No,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Some of them,No,Yes,No,No,Canada
+30.0,Male,Ireland,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,Ireland
+26.0,Male,United States,No,Yes,Not applicable,No,Yes,Yes,Yes,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,No,No,United States
+36.0,Male,United States,Yes,No,Never,No,Yes,No,Yes,No,No,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,United States
+25.0,Male,United Kingdom,No,No,Never,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,United Kingdom
+38.0,Male,United Kingdom,No,No,Not applicable,Yes,Yes,No,No,No,No,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,United Kingdom
+35.0,Female,United States,No,No,Never,Yes,Yes,Don't know,Not sure,No,No,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,United States
+28.0,Male,United Kingdom,No,No,Not applicable,No,No,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Some of them,Yes,Yes,No,No,United Kingdom
+32.0,Female,United Kingdom,No,No,Not applicable,No,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,United Kingdom
+27.0,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+26.0,Male,United Kingdom,Yes,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,United Kingdom
+23.0,Male,United States,No,No,Sometimes,No,No,No,No,No,No,Somewhat easy,Yes,Yes,No,No,No,No,No,No,United States
+32.0,Male,United States,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+32.0,Female,United States,No,No,Sometimes,No,No,Yes,Yes,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,United States
+26.0,Male,Canada,No,No,Not applicable,Yes,Yes,Yes,Not sure,Don't know,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,Canada
+31.0,Other,Italy,Yes,Yes,Never,No,Yes,No,No,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Other
+45.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+23.0,Male,United Kingdom,No,No,Rarely,No,Yes,No,Yes,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,United Kingdom
+24.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,Don't know,No,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,United States
+25.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Very easy,Maybe,No,Some of them,No,No,No,Don't know,Yes,United States
+32.0,Male,United States,No,No,Never,Yes,Yes,No,No,No,No,Very easy,No,No,Yes,Yes,No,No,Don't know,No,United States
+25.0,Female,Canada,No,No,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Canada
+27.0,Male,Sweden,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,No,No,No,No,Don't know,No,Other
+30.0,Male,United States,No,No,Rarely,No,No,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+30.0,Male,United Kingdom,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,Yes,No,United Kingdom
+33.0,Female,United States,No,No,Not applicable,Yes,Yes,Yes,No,Don't know,No,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+23.0,Female,United States,No,No,Not applicable,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+33.0,Male,United Kingdom,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,No,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,United Kingdom
+26.0,Male,United States,Yes,Yes,Rarely,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,United States
+27.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,No,No,No,Yes,No,United States
+34.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,United States
+32.0,Male,United Kingdom,No,Yes,Rarely,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,United Kingdom
+24.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,Don't know,No,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+46.0,Male,United States,No,Yes,Often,No,Yes,Don't know,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,No,No,United States
+48.0,Male,United States,No,No,Never,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+37.0,Male,United States,No,No,Not applicable,Yes,Yes,Yes,No,No,No,Don't know,Yes,No,Some of them,No,Maybe,Yes,No,No,United States
+26.0,Male,Canada,No,Yes,Often,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Canada
+27.0,Male,United States,No,No,Not applicable,No,Yes,Yes,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,United States
+24.0,Female,United States,No,Yes,Rarely,No,Yes,No,No,No,No,Very easy,Yes,No,No,Some of them,No,Yes,Yes,No,United States
+35.0,Male,United States,No,Yes,Sometimes,No,No,Yes,Yes,No,Don't know,Very easy,Yes,No,Some of them,Yes,No,Yes,No,No,United States
+40.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,United States
+37.0,Female,United States,No,No,Often,Yes,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,United States
+45.0,Male,United States,No,No,Never,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United States
+32.0,Male,United States,No,No,Rarely,Yes,Yes,No,Yes,No,No,Very difficult,Maybe,No,Yes,Some of them,No,Yes,Don't know,No,United States
+41.0,Male,Germany,No,No,Sometimes,No,Yes,Don't know,No,No,No,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Germany
+39.0,Male,United States,No,No,Not applicable,Yes,Yes,Yes,No,No,No,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,United States
+33.0,Female,United States,No,No,Often,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,United States
+23.0,Male,Germany,Yes,Yes,Often,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,No,Maybe,Yes,Yes,Maybe,Yes,Don't know,No,Germany
+19.0,Male,Canada,No,Yes,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Canada
+35.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,Don't know,No,United States
+26.0,Female,United States,No,Yes,Never,No,Yes,Don't know,Not sure,No,No,Somewhat difficult,Maybe,Maybe,Some of them,No,No,Maybe,No,No,United States
+29.0,Male,United States,No,No,Not applicable,No,No,Don't know,Not sure,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+26.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,Yes,Very difficult,Maybe,No,Some of them,Some of them,Yes,Yes,No,Yes,United States
+33.0,Female,United States,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+38.0,Male,Canada,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Canada
+27.0,Male,Germany,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Germany
+27.0,Female,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,No,United States
+56.0,Male,United States,No,Yes,Rarely,No,Yes,Yes,Yes,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+50.0,Male,United States,No,No,Not applicable,No,Yes,Yes,Yes,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+30.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+34.0,Female,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,United States
+44.0,Male,United Kingdom,No,No,Sometimes,No,No,No,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,United Kingdom
+31.0,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+31.0,Male,United States,No,No,Sometimes,No,No,No,Yes,No,Don't know,Don't know,No,No,Some of them,No,No,No,No,No,United States
+26.0,Male,Canada,No,Yes,Often,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Canada
+40.0,Female,United States,No,No,Never,No,No,Don't know,Not sure,No,No,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+29.0,Female,Canada,No,No,Rarely,Yes,No,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,No,Yes,No,Maybe,Don't know,No,Canada
+21.0,Male,Germany,No,No,Rarely,Yes,Yes,Don't know,No,No,No,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,Germany
+24.0,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,No,United Kingdom
+39.0,Male,United Kingdom,No,No,Never,No,No,No,No,No,No,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,United Kingdom
+27.0,Male,United Kingdom,No,No,Never,No,Yes,Don't know,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+29.0,Male,Germany,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Very easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Germany
+28.0,Female,United States,No,Yes,Often,Yes,No,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,No,Yes,No,United States
+31.0,Male,United States,No,Yes,Sometimes,No,Yes,No,No,No,No,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,United States
+32.0,Female,Germany,No,No,Sometimes,No,Yes,No,No,No,No,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,Germany
+35.0,Male,Canada,No,Yes,Sometimes,Yes,Yes,No,Yes,No,No,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No,Canada
+24.0,Male,Ireland,No,Yes,Not applicable,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Ireland
+48.0,Male,United States,No,No,Never,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Yes,Yes,No,Maybe,Yes,Yes,United States
+24.0,Male,United States,No,Yes,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,United States
+28.0,Male,Poland,No,No,Rarely,Yes,Yes,No,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,Other
+36.0,Male,France,Yes,Yes,Not applicable,Yes,Yes,No,No,Yes,No,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,France
+48.0,Other,United States,No,Yes,Often,No,Yes,Don't know,No,No,No,Very difficult,Yes,Yes,No,Some of them,No,No,No,Yes,United States
+33.0,Male,Croatia,No,Yes,Sometimes,Yes,Yes,Yes,Yes,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Other
+22.0,Female,Netherlands,No,No,Often,No,Yes,No,No,No,No,Don't know,No,No,No,Some of them,No,Yes,Don't know,No,Netherlands
+26.0,Other,Germany,Yes,No,Sometimes,Yes,Yes,No,Not sure,Yes,Yes,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Germany
+23.0,Male,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Very difficult,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,United Kingdom
+43.0,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,United States
+23.0,Male,Canada,No,No,Never,No,Yes,Don't know,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Canada
+43.0,Male,United States,No,No,Not applicable,No,Yes,Yes,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+24.0,Male,Canada,No,No,Never,No,Yes,Don't know,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Canada
+33.0,Male,Canada,No,Yes,Often,Yes,Yes,Don't know,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,Canada
+32.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+32.0,Male,United Kingdom,No,Yes,Sometimes,No,Yes,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,United Kingdom
+36.0,Male,United States,No,No,Sometimes,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,Maybe,Yes,Yes,No,United States
+35.0,Male,United States,No,No,Rarely,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+30.0,Male,United States,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,Don't know,No,United States
+28.0,Male,Ireland,No,No,Rarely,No,Yes,Don't know,No,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Ireland
+37.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+24.0,Female,United States,No,Yes,Not applicable,No,No,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,United States
+41.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,United States
+44.0,Male,United States,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,No,Very easy,Yes,Yes,Some of them,No,No,No,Yes,No,United States
+35.0,Male,United States,No,No,Not applicable,No,No,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,No,No,No,United States
+38.0,Male,United Kingdom,No,Yes,Sometimes,No,Yes,No,Not sure,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,United Kingdom
+37.0,Male,United States,No,Yes,Not applicable,No,No,Yes,Yes,No,No,Very easy,Maybe,No,No,No,No,No,No,No,United States
+38.0,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+35.0,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+29.0,Female,United States,No,Yes,Rarely,No,Yes,Yes,Not sure,No,No,Somewhat easy,No,No,Yes,Some of them,Maybe,Maybe,Don't know,No,United States
+23.0,Male,United States,No,No,Never,No,No,Don't know,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,United States
+32.0,Male,United States,No,No,Never,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+34.0,Male,United States,No,Yes,Sometimes,No,Yes,No,No,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,United States
+41.0,Male,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+32.0,Male,Germany,Yes,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,No,No,Germany
+31.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,United States
+20.0,Male,United States,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+27.0,Female,Hungary,Yes,Yes,Sometimes,Yes,Yes,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,Other
+46.0,Female,United States,No,No,Often,Yes,No,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+37.0,Male,United Kingdom,No,Yes,Rarely,No,Yes,No,No,No,No,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,United Kingdom
+36.0,Male,United Kingdom,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Don't know,Yes,United Kingdom
+26.0,Male,United States,No,No,Often,No,No,Don't know,Not sure,No,No,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,United States
+39.0,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,No,No,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+37.0,Male,Germany,No,No,Not applicable,No,Yes,Don't know,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Germany
+38.0,Male,United Kingdom,Yes,Yes,Rarely,Yes,No,No,No,No,No,Very difficult,Maybe,No,No,No,No,No,No,No,United Kingdom
+35.0,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+32.0,Male,Netherlands,Yes,No,Sometimes,No,Yes,No,No,No,No,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,No,Netherlands
+42.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,United States
+22.0,Male,United States,No,Yes,Often,No,Yes,No,Yes,No,No,Very difficult,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+34.0,Male,United States,No,Yes,Not applicable,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+34.0,Male,United Kingdom,No,No,Not applicable,Yes,Yes,No,No,No,No,Somewhat difficult,Yes,Maybe,No,No,No,Yes,No,Yes,United Kingdom
+30.0,Male,Canada,No,Yes,Sometimes,No,No,Don't know,No,No,No,Very difficult,Yes,No,Some of them,No,No,Yes,No,Yes,Canada
+26.0,Male,United States,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,United States
+32.0,Male,United Kingdom,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Yes,United Kingdom
+33.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+37.0,Male,Australia,No,Yes,Sometimes,No,Yes,No,Yes,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,Australia
+25.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,No,Don't know,Yes,Yes,No,No,No,No,No,No,United States
+25.0,Male,United States,No,Yes,Sometimes,No,No,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+27.0,Other,United States,No,No,Never,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+35.0,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+38.0,Male,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes,United States
+25.0,Male,United States,No,Yes,Never,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,No,No,United States
+33.0,Female,United Kingdom,No,No,Never,No,Yes,Don't know,Not sure,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United Kingdom
+42.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+23.0,Female,United States,No,No,Not applicable,No,Yes,Don't know,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,United States
+24.0,Male,United Kingdom,No,No,Sometimes,No,Yes,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+33.0,Male,United States,Yes,No,Never,Yes,Yes,Don't know,No,No,No,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,United States
+65.0,Male,United States,Yes,No,Not applicable,Yes,No,No,No,No,No,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,United States
+38.0,Male,Netherlands,No,Yes,Often,Yes,Yes,No,Not sure,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Netherlands
+40.0,Female,United States,No,Yes,Rarely,No,No,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Don't know,No,United States
+30.0,Male,Switzerland,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,Other
+23.0,Male,United States,No,No,Rarely,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,United States
+33.0,Female,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+29.0,Female,United States,No,Yes,Rarely,No,Yes,Don't know,No,No,No,Don't know,Yes,No,No,No,No,No,Don't know,No,United States
+25.0,Male,Germany,Yes,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,Germany
+37.0,Male,Ireland,No,Yes,Sometimes,No,Yes,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Ireland
+53.0,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,No,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,United States
+30.0,Other,United States,No,No,Never,Yes,Yes,Yes,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+32.0,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,No,No,No,Very easy,No,No,No,Yes,No,Maybe,No,No,United Kingdom
+33.0,Male,Bulgaria,No,No,Rarely,Yes,Yes,No,No,No,No,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Other
+34.0,Male,Greece,No,No,Not applicable,Yes,Yes,No,No,No,No,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,Other
+33.0,Male,United States,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,No,Very easy,Maybe,Maybe,Yes,Yes,No,No,Yes,No,United States
+43.0,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Yes,Some of them,No,No,Yes,No,United States
+36.0,Male,Germany,No,No,Not applicable,No,Yes,Yes,Yes,No,No,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Germany
+32.0,Female,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,United States
+49.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,United States
+34.0,Female,United States,No,Yes,Rarely,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+40.0,Male,Thailand,Yes,No,Never,No,Yes,No,No,No,No,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Other
+27.0,Male,Israel,No,No,Not applicable,No,Yes,No,No,No,No,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,Other
+31.0,Female,United States,No,Yes,Rarely,No,No,Don't know,Not sure,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,United States
+30.0,Female,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+36.0,Male,United States,No,No,Never,No,No,Don't know,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,United States
+39.0,Male,Switzerland,No,No,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Other
+22.0,Male,Netherlands,No,Yes,Sometimes,Yes,Yes,No,Not sure,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Netherlands
+24.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,No,No,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,United States
+31.0,Other,United Kingdom,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Yes,Maybe,No,No,No,Yes,Yes,No,United Kingdom
+19.0,Male,Canada,Yes,Yes,Not applicable,Yes,Yes,Don't know,Not sure,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Canada
+30.0,Male,United States,Yes,No,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,Don't know,No,United States
+26.0,Male,Uruguay,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,No,Don't know,No,No,Some of them,No,No,Yes,Don't know,No,Other
+33.0,Male,United States,No,Yes,Not applicable,No,No,Yes,No,No,No,Somewhat difficult,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+26.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Yes,United States
+34.0,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+34.0,Female,United Kingdom,No,No,Sometimes,No,No,No,Yes,No,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,United Kingdom
+28.0,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,No,No,United States
+31.0,Male,United States,No,No,Never,No,Yes,Yes,No,No,Yes,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+35.0,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+25.0,Male,Australia,No,Yes,Often,No,Yes,No,Yes,No,No,Very difficult,Yes,Maybe,No,No,No,Yes,No,Yes,Australia
+25.0,Female,United States,Yes,Yes,Often,Yes,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,United States
+26.0,Female,Canada,No,Yes,Sometimes,No,No,No,Yes,No,No,Very difficult,Yes,No,No,No,No,Maybe,No,Yes,Canada
+40.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,Yes,United States
+25.0,Male,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,Yes,United States
+24.0,Male,Ireland,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Yes,Yes,Ireland
+37.0,Male,Canada,No,Yes,Often,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Canada
+33.0,Female,United States,Yes,No,Never,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,No,United States
+32.0,Male,United Kingdom,No,No,Never,No,Yes,Don't know,No,No,No,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,No,United Kingdom
+43.0,Male,United Kingdom,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,United Kingdom
+33.0,Male,United States,No,No,Often,Yes,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United States
+40.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+24.0,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+33.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Yes,No,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,United States
+32.0,Male,United States,No,No,Sometimes,No,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Some of them,Maybe,Yes,Don't know,No,United States
+38.0,Male,United States,No,No,Sometimes,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,United States
+23.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,No,United States
+24.0,Male,Germany,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Germany
+27.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+27.0,Male,Singapore,No,No,Sometimes,Yes,Yes,No,No,No,No,Don't know,Yes,No,Some of them,Yes,No,No,No,No,Other
+34.0,Male,Australia,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Australia
+30.0,Female,Spain,No,Yes,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Other
+30.0,Male,United States,No,Yes,Never,No,Yes,Don't know,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+30.0,Male,Australia,No,No,Sometimes,No,Yes,No,No,No,No,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Australia
+23.0,Male,United States,No,Yes,Rarely,No,Yes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,United States
+29.0,Male,United States,No,No,Not applicable,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,United States
+29.0,Female,United States,No,No,Sometimes,No,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,United States
+37.0,Female,United States,No,No,Rarely,No,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+25.0,Female,United States,Yes,No,Often,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Yes,United States
+35.0,Female,United States,No,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,United States
+31.0,Male,United States,No,Yes,Rarely,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+46.0,Male,United States,No,No,Rarely,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,United States
+30.0,Male,United States,No,No,Not applicable,Yes,Yes,Yes,No,Yes,Yes,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,United States
+29.0,Male,United States,No,No,Not applicable,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+28.0,Other,United States,No,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+46.0,Male,United States,No,No,Often,Yes,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,United States
+20.0,Male,Georgia,No,No,Rarely,No,No,No,No,No,No,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,No,Other
+32.0,Male,United States,No,No,Never,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+40.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+35.0,Female,United States,No,No,Sometimes,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,No,Maybe,Yes,No,United States
+31.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+32.0,Male,Belgium,No,No,Not applicable,No,Yes,No,Yes,No,No,Very difficult,Yes,Maybe,No,No,No,No,No,No,Other
+35.0,Male,Germany,No,No,Rarely,No,No,Don't know,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Germany
+56.0,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,United States
+34.0,Male,United States,No,Yes,Often,No,Yes,Yes,Yes,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+21.0,Male,Canada,No,No,Never,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Canada
+33.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+26.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes,United States
+31.0,Male,United Kingdom,No,Yes,Never,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+27.0,Male,Canada,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Canada
+21.0,Male,United Kingdom,No,Yes,Never,No,No,No,No,No,No,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United Kingdom
+37.0,Female,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,United States
+45.0,Female,United States,No,No,Sometimes,No,Yes,Yes,No,No,No,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,United States
+34.0,Male,United States,No,No,Sometimes,Yes,Yes,Don't know,No,No,No,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+27.0,Male,Portugal,No,No,Never,No,Yes,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Other
+29.0,Female,United States,No,Yes,Sometimes,Yes,No,Don't know,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+30.0,Male,United States,No,No,Not applicable,No,No,Don't know,Not sure,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+32.0,Male,United States,Yes,Yes,Rarely,Yes,Yes,No,Yes,No,No,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+25.0,Male,Nigeria,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No,Other
+42.0,Male,United States,No,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat easy,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+30.0,Male,Germany,Yes,No,Often,Yes,Yes,Yes,Yes,No,No,Very difficult,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Germany
+28.0,Male,United Kingdom,No,No,Never,No,Yes,Don't know,No,No,No,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United Kingdom
+36.0,Male,United States,Yes,No,Never,No,Yes,Yes,No,No,Don't know,Somewhat difficult,No,No,Some of them,Yes,Yes,Yes,Yes,No,United States
+24.0,Female,United States,No,Yes,Often,No,Yes,Yes,Yes,No,No,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,United States
+29.0,Male,Poland,No,Yes,Rarely,No,Yes,No,Yes,No,No,Very difficult,Maybe,No,Some of them,Some of them,No,Yes,No,No,Other
+30.0,Male,United States,No,Yes,Rarely,No,Yes,No,Yes,No,No,Don't know,No,No,No,No,No,No,Don't know,No,United States
+38.0,Male,Portugal,No,No,Not applicable,No,Yes,No,Yes,No,No,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Other
+31.0,Male,South Africa,No,No,Never,Yes,Yes,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,Other
+26.0,Male,United States,No,Yes,Rarely,No,Yes,Don't know,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+33.0,Male,United States,No,Yes,Not applicable,No,Yes,Yes,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,United States
+30.0,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,No,No,No,No,No,Maybe,Don't know,No,United States
+33.0,Male,United States,No,No,Not applicable,Yes,Yes,Yes,No,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+33.0,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,United States
+29.0,Male,United Kingdom,No,No,Not applicable,No,No,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,United Kingdom
+33.0,Male,Norway,No,Yes,Not applicable,No,Yes,Yes,Yes,No,No,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Other
+34.0,Female,United States,No,No,Sometimes,No,Yes,No,Not sure,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+38.0,Female,United States,No,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,No,Maybe,Some of them,No,No,No,Don't know,Yes,United States
+36.0,Male,United States,No,No,Rarely,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,United States
+43.0,Male,United States,No,Yes,Never,No,No,Yes,Yes,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+22.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,No,Yes,United States
+28.0,Male,United States,No,Yes,Sometimes,No,No,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,United States
+39.0,Male,Netherlands,Yes,No,Not applicable,No,Yes,No,No,Yes,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Netherlands
+32.0,Male,United Kingdom,No,Yes,Sometimes,Yes,Yes,Yes,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United Kingdom
+40.0,Male,Canada,No,No,Never,No,Yes,No,No,No,No,Somewhat difficult,No,No,Some of them,Some of them,No,No,No,No,Canada
+25.0,Male,United Kingdom,No,Yes,Sometimes,Yes,Yes,No,No,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United Kingdom
+31.0,Male,United States,No,No,Not applicable,No,Yes,Yes,No,Yes,No,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+33.0,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+35.0,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+29.0,Male,United Kingdom,No,No,Rarely,No,Yes,Don't know,Not sure,No,No,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,Yes,United Kingdom
+50.0,Male,United States,No,No,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,United States
+25.0,Male,Canada,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Canada
+31.0,Male,Canada,Yes,No,Not applicable,No,Yes,Yes,Yes,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,Canada
+35.0,Female,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,No,Somewhat easy,No,No,Yes,Some of them,No,No,Yes,No,United States
+26.0,Female,India,Yes,No,Sometimes,No,No,No,No,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Other
+32.0,Male,United States,Yes,Yes,Sometimes,Yes,Yes,Yes,Yes,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,No,No,United States
+32.0,Male,United States,No,No,Sometimes,No,Yes,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,United States
+25.0,Male,Ireland,No,Yes,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Ireland
+27.0,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,Yes,No,No,No,No,Maybe,No,No,United States
+41.0,Male,United States,No,No,Often,Yes,Yes,No,Not sure,No,No,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,United States
+35.0,Male,Switzerland,No,Yes,Often,No,Yes,Don't know,Not sure,No,No,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,Other
+32.0,Male,United States,No,Yes,Sometimes,Yes,Yes,No,No,No,No,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No,United States
+36.0,Male,United States,No,No,Rarely,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+43.0,Male,Mexico,Yes,No,Not applicable,Yes,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Other
+43.0,Male,United Kingdom,No,Yes,Not applicable,No,No,Don't know,No,No,No,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United Kingdom
+46.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,United States
+24.0,Male,Canada,No,No,Sometimes,No,Yes,Yes,Yes,No,No,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Yes,Canada
+32.0,Male,New Zealand,No,No,Sometimes,No,Yes,No,No,No,No,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Other
+40.0,Male,United States,No,No,Not applicable,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,No,No,Yes,No,No,Don't know,No,United States
+44.0,Female,United States,No,No,Never,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,United States
+37.0,Male,Ireland,Yes,No,Never,No,Yes,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Ireland
+30.0,Male,United States,Yes,No,Never,Yes,Yes,No,Yes,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,United States
+40.0,Female,United States,No,Yes,Sometimes,No,No,Yes,Not sure,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+29.0,Male,United States,No,Yes,Often,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+25.0,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,No,No,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+33.0,Female,Sweden,No,Yes,Rarely,No,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,No,No,Yes,Don't know,No,Other
+40.0,Male,United States,No,No,Never,No,Yes,Yes,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+28.0,Male,United States,No,Yes,Not applicable,No,Yes,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,United States
+36.0,Male,United States,No,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,No,No,United States
+23.0,Male,United States,No,No,Never,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,United States
+23.0,Male,Canada,No,No,Sometimes,No,Yes,Yes,No,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Canada
+34.0,Male,United States,No,No,Often,No,Yes,Don't know,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+38.0,Male,United States,No,No,Sometimes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Don't know,No,United States
+28.0,Male,Brazil,No,No,Not applicable,No,Yes,Don't know,No,No,No,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,Yes,Other
+22.0,Male,United Kingdom,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+51.0,Male,Singapore,No,No,Never,Yes,Yes,Don't know,No,No,Don't know,Don't know,Yes,No,No,No,No,No,No,No,Other
+25.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No,United States
+32.0,Male,United States,No,No,Sometimes,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,United States
+22.0,Male,Australia,No,Yes,Often,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,No,Yes,No,Maybe,Don't know,Yes,Australia
+47.0,Female,United States,No,No,Not applicable,Yes,Yes,Don't know,No,No,Don't know,Very difficult,Yes,Yes,No,No,No,No,No,No,United States
+43.0,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+31.0,Male,United Kingdom,No,Yes,Often,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,Yes,United Kingdom
+35.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United States
+29.0,Male,Latvia,No,No,Not applicable,No,Yes,No,Yes,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Other
+40.0,Male,United States,Yes,No,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+23.0,Female,United States,No,Yes,Sometimes,No,No,No,No,No,No,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,No,No,United States
+33.0,Male,United States,No,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,United States
+29.0,Male,Romania,No,No,Not applicable,Yes,No,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,No,No,Other
+29.0,Male,Germany,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Germany
+29.0,Female,United States,No,Yes,Rarely,Yes,No,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,United States
+35.0,Male,United States,No,No,Never,Yes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+31.0,Male,United States,No,No,Not applicable,No,No,Don't know,No,No,No,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,United States
+38.0,Male,United States,No,No,Never,No,Yes,Yes,Yes,No,No,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,United States
+26.0,Male,United States,No,No,Rarely,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,United States
+42.0,Male,United States,No,No,Not applicable,No,Yes,No,Yes,No,No,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,United States
+28.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No,United States
+23.0,Other,United States,No,No,Rarely,No,Yes,Yes,Yes,No,No,Somewhat difficult,Maybe,No,Yes,Yes,No,No,No,No,United States
+32.0,Male,United States,No,No,Never,Yes,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+25.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,No,United States
+31.0,Male,United States,No,No,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+24.0,Female,United States,No,Yes,Sometimes,No,No,Yes,Yes,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,United States
+26.0,Female,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,No,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+32.0,Female,United Kingdom,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,United Kingdom
+28.0,Female,Canada,No,No,Not applicable,No,Yes,Yes,Not sure,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Canada
+25.0,Other,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,United States
+33.0,Male,United States,Yes,Yes,Rarely,Yes,Yes,No,Yes,Yes,Yes,Very difficult,No,No,Yes,Yes,No,No,Yes,Yes,United States
+41.0,Male,United States,No,Yes,Never,Yes,No,Don't know,No,No,No,Don't know,Maybe,No,No,No,No,No,Don't know,No,United States
+27.0,Male,United States,No,Yes,Not applicable,Yes,Yes,Yes,Yes,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,United States
+43.0,Male,United States,No,Yes,Sometimes,No,No,Yes,Not sure,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,No,No,United States
+28.0,Male,United Kingdom,No,No,Often,No,Yes,No,No,No,No,Somewhat difficult,Yes,No,No,No,No,Yes,Yes,No,United Kingdom
+39.0,Male,United Kingdom,No,No,Sometimes,No,No,Don't know,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United Kingdom
+38.0,Male,Costa Rica,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,No,No,Other
+32.0,Male,Canada,Yes,No,Never,Yes,Yes,Don't know,Not sure,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Canada
+26.0,Male,France,No,No,Not applicable,No,Yes,No,No,No,No,Very easy,Yes,No,No,No,No,No,No,Yes,France
+29.0,Male,United States,No,No,Never,No,Yes,Yes,Not sure,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+27.0,Female,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,Maybe,No,Yes,No,No,Don't know,No,United States
+33.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Very easy,Maybe,No,Yes,Some of them,No,Yes,No,No,United States
+38.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,No,Yes,Don't know,No,No,Yes,Some of them,Maybe,Maybe,Yes,No,United States
+37.0,Female,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,United States
+41.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,United States
+27.0,Female,New Zealand,No,Yes,Rarely,Yes,Yes,No,No,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,Other
+19.0,Male,United Kingdom,No,No,Not applicable,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,United Kingdom
+44.0,Male,United Kingdom,No,Yes,Sometimes,No,No,Don't know,No,No,No,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,United Kingdom
+55.0,Male,United States,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,United States
+25.0,Male,United Kingdom,No,No,Never,No,Yes,No,No,No,No,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,United Kingdom
+50.0,Male,United States,No,Yes,Not applicable,Yes,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+50.0,Male,France,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No,France
+27.0,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,No,United States
+54.0,Male,United States,No,Yes,Never,No,Yes,Don't know,No,Yes,Yes,Don't know,No,No,No,Yes,No,No,Don't know,No,United States
+28.0,Male,Switzerland,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,No,No,No,Maybe,Don't know,No,Other
+30.0,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,No,Yes,Don't know,No,No,Yes,Yes,Maybe,No,Yes,No,United States
+32.0,Male,United States,No,No,Often,Yes,Yes,Yes,Not sure,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+29.0,Male,Netherlands,No,No,Never,Yes,Yes,No,No,No,No,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Netherlands
+36.0,Female,United Kingdom,Yes,No,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United Kingdom
+31.0,Male,France,No,No,Not applicable,No,Yes,Don't know,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,No,France
+28.0,Male,United Kingdom,Yes,No,Not applicable,Yes,Yes,No,Yes,No,No,Very easy,Maybe,Maybe,No,No,No,No,Yes,No,United Kingdom
+36.0,Male,United States,No,No,Never,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+39.0,Male,United States,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,United States
+29.0,Male,United States,No,No,Not applicable,No,Yes,No,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No,United States
+28.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,United States
+34.0,Male,United Kingdom,No,Yes,Often,Yes,No,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,United Kingdom
+30.0,Male,United States,No,No,Not applicable,No,No,Yes,No,Yes,Yes,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,United States
+38.0,Male,United Kingdom,No,No,Sometimes,No,No,Don't know,Not sure,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,United Kingdom
+32.0,Male,United States,No,No,Rarely,No,Yes,Yes,Yes,No,Yes,Don't know,Yes,No,No,Yes,No,No,Don't know,No,United States
+22.0,Male,United States,No,No,Not applicable,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+34.0,Male,United Kingdom,No,Yes,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United Kingdom
+40.0,Male,United Kingdom,No,No,Never,No,Yes,Don't know,Not sure,No,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Maybe,Don't know,No,United Kingdom
+39.0,Male,Netherlands,No,No,Not applicable,No,No,Yes,Not sure,Yes,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Yes,No,Netherlands
+35.0,Male,Germany,Yes,No,Sometimes,Yes,No,Don't know,No,No,No,Somewhat difficult,Yes,Maybe,Yes,No,No,Maybe,Don't know,No,Germany
+36.0,Male,United States,No,No,Sometimes,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+29.0,Male,United States,No,No,Never,No,No,Yes,Yes,Yes,No,Very easy,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,United States
+28.0,Male,United Kingdom,No,Yes,Often,No,Yes,No,No,No,No,Somewhat easy,Maybe,Maybe,Yes,Yes,No,No,No,No,United Kingdom
+25.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+37.0,Male,United States,No,Yes,Rarely,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+39.0,Male,Greece,No,No,Not applicable,Yes,Yes,No,No,No,No,Don't know,Yes,No,No,No,No,No,Don't know,No,Other
+35.0,Male,Netherlands,No,Yes,Never,No,Yes,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Netherlands
+23.0,Male,United States,No,Yes,Not applicable,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No,United States
+26.0,Male,United States,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Yes,Yes,Some of them,No,No,No,No,No,United States
+37.0,Male,France,No,No,Not applicable,No,Yes,No,No,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,France
+32.0,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+22.0,Male,India,Yes,No,Not applicable,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Yes,Yes,Other
+26.0,Male,Germany,Yes,Yes,Often,No,Yes,No,No,No,No,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,No,Yes,Germany
+27.0,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,No,No,No,Yes,Yes,No,United States
+30.0,Male,United Kingdom,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,No,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Don't know,No,United Kingdom
+54.0,Male,United Kingdom,No,No,Sometimes,Yes,No,No,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,No,No,United Kingdom
+37.0,Male,Italy,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Other
+42.0,Male,Germany,No,No,Not applicable,Yes,Yes,Don't know,Not sure,Yes,Yes,Very easy,No,No,Some of them,No,No,Maybe,Yes,No,Germany
+31.0,Male,United States,No,No,Not applicable,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,No,No,No,Some of them,No,No,Yes,No,United States
+32.0,Female,United States,No,No,Often,Yes,Yes,Yes,Not sure,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,Yes,United States
+30.0,Male,United States,Yes,Yes,Often,Yes,Yes,No,Yes,No,No,Very easy,No,No,Yes,Yes,No,No,Yes,No,United States
+32.0,Male,United States,No,No,Not applicable,No,Yes,No,Yes,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+29.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,United States
+26.0,Male,United Kingdom,Yes,No,Rarely,Yes,Yes,No,Not sure,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United Kingdom
+29.0,Female,United States,No,Yes,Rarely,No,Yes,Yes,Not sure,Don't know,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,United States
+28.0,Male,Russia,No,No,Sometimes,No,Yes,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Other
+29.0,Male,United States,No,No,Not applicable,No,No,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United States
+44.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+31.0,Male,United States,No,No,Never,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United States
+31.0,Male,Brazil,Yes,No,Not applicable,No,Yes,No,Yes,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Other
+42.0,Female,Netherlands,No,No,Rarely,Yes,Yes,Yes,Yes,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Netherlands
+30.0,Male,United States,No,Yes,Rarely,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+33.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+27.0,Female,United States,No,No,Rarely,No,Yes,Yes,No,No,No,Don't know,Maybe,Maybe,Yes,No,No,Maybe,Don't know,No,United States
+29.0,Male,United States,No,No,Never,No,No,Yes,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+34.0,Male,United States,No,No,Never,Yes,Yes,No,Yes,No,No,Don't know,Yes,Yes,No,No,No,No,Don't know,No,United States
+27.0,Other,United States,Yes,No,Often,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,United States
+29.0,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United Kingdom
+30.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,United States
+29.0,Female,United Kingdom,No,No,Often,No,No,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Yes,No,Yes,United Kingdom
+30.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United States
+32.0,Male,Germany,Yes,No,Never,Yes,Yes,No,No,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Germany
+34.0,Male,Ireland,No,Yes,Never,Yes,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Ireland
+23.0,Male,United States,No,Yes,Sometimes,Yes,No,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,United States
+31.0,Female,United Kingdom,No,No,Not applicable,No,Yes,Don't know,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United Kingdom
+37.0,Male,United Kingdom,No,No,Never,Yes,Yes,Don't know,No,No,No,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No,United Kingdom
+36.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,United States
+34.0,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,No,United States
+24.0,Male,United States,No,Yes,Sometimes,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,United States
+29.0,Male,United States,No,No,Never,No,Yes,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,No,Yes,United States
+19.0,Other,United States,No,Yes,Often,No,No,Don't know,Not sure,No,No,Somewhat difficult,Maybe,Maybe,No,No,No,Maybe,No,No,United States
+24.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,No,Don't know,No,Maybe,Some of them,Yes,Yes,Yes,No,No,United States
+27.0,Female,United Kingdom,No,Yes,Not applicable,No,No,No,Yes,No,No,Don't know,Maybe,No,No,No,No,Yes,Yes,No,United Kingdom
+33.0,Male,United States,No,Yes,Rarely,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,United States
+25.0,Male,Ireland,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Ireland
+21.0,Male,United States,No,No,Often,No,No,No,Yes,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Yes,United States
+24.0,Male,United Kingdom,No,No,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Yes,United Kingdom
+27.0,Male,United Kingdom,No,No,Never,No,Yes,Yes,Not sure,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United Kingdom
+32.0,Male,United States,No,No,Rarely,No,Yes,Yes,Not sure,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United States
+30.0,Male,United Kingdom,No,No,Often,No,Yes,No,No,No,No,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United Kingdom
+28.0,Male,France,No,No,Never,No,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,France
+28.0,Other,United States,No,No,Sometimes,No,Yes,No,Yes,No,No,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,United States
+27.0,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+32.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,United States
+23.0,Male,India,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,Other
+33.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,United States
+28.0,Male,United Kingdom,No,No,Never,No,Yes,Don't know,Not sure,No,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,United Kingdom
+28.0,Male,United States,No,No,Sometimes,Yes,No,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+35.0,Male,Germany,No,No,Not applicable,No,Yes,No,No,No,No,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Germany
+29.0,Male,United States,No,No,Not applicable,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,United States
+26.0,Female,United States,No,Yes,Rarely,No,Yes,Yes,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,United States
+44.0,Male,United States,No,Yes,Sometimes,No,No,Yes,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Yes,United States
+41.0,Male,United Kingdom,No,No,Not applicable,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,No,Yes,United Kingdom
+38.0,Other,United States,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,United States
+31.0,Other,United States,No,Yes,Sometimes,Yes,Yes,Yes,No,No,No,Don't know,No,No,Yes,Yes,No,No,Don't know,No,United States
+29.0,Male,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+23.0,Male,United States,No,No,Often,No,No,Yes,Yes,Yes,No,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+43.0,Male,United Kingdom,No,Yes,Rarely,No,Yes,No,No,No,No,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,United Kingdom
+29.0,Male,United States,No,No,Never,No,Yes,Yes,Yes,No,Yes,Don't know,Yes,Yes,No,No,No,No,Don't know,No,United States
+26.0,Male,United Kingdom,No,Yes,Sometimes,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,United Kingdom
+31.0,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,Don't know,No,United States
+37.0,Male,Canada,No,Yes,Rarely,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Canada
+31.0,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,United States
+23.0,Female,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,United States
+27.0,Male,United States,No,No,Not applicable,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,United States
+40.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+23.0,Female,Australia,No,Yes,Often,Yes,Yes,No,Not sure,No,No,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Australia
+35.0,Female,United States,No,Yes,Sometimes,No,No,Yes,Not sure,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,United States
+31.0,Male,United Kingdom,No,No,Never,No,Yes,Yes,No,No,Yes,Don't know,Maybe,Yes,Some of them,No,No,No,Yes,No,United Kingdom
+26.0,Male,United States,No,Yes,Never,No,Yes,Don't know,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,No,No,United States
+24.0,Male,United States,No,Yes,Rarely,Yes,Yes,Don't know,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,United States
+34.0,Female,Ireland,No,No,Sometimes,No,No,Yes,Yes,Yes,No,Don't know,Yes,Yes,Some of them,Some of them,No,No,Yes,No,Ireland
+26.0,Female,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+31.0,Male,United States,No,No,Not applicable,No,No,Yes,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Don't know,No,United States
+23.0,Female,United Kingdom,No,Yes,Sometimes,No,Yes,No,Yes,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United Kingdom
+30.0,Other,United States,Yes,Yes,Often,Yes,No,No,Yes,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,United States
+29.0,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,No,No,United States
+31.0,Male,United States,No,Yes,Never,No,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+39.0,Male,United States,No,Yes,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,United States
+33.0,Male,Australia,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Australia
+39.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,No,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Yes,United States
+32.0,Male,United States,No,No,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+33.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+26.0,Male,Australia,No,Yes,Sometimes,Yes,Yes,No,No,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,Australia
+35.0,Female,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+29.0,Female,United States,No,No,Never,No,Yes,Yes,Yes,Yes,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,United States
+26.0,Male,India,Yes,No,Not applicable,No,Yes,No,No,No,No,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Other
+29.0,Female,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,United States
+23.0,Female,United States,No,No,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United States
+37.0,Female,United States,No,Yes,Rarely,No,No,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Yes,Some of them,No,Maybe,Yes,No,United States
+30.0,Male,Netherlands,No,No,Sometimes,No,Yes,Don't know,No,No,No,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,Don't know,No,Netherlands
+29.0,Female,United States,Yes,No,Sometimes,No,Yes,Yes,Not sure,Don't know,No,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+28.0,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,United States
+34.0,Male,Poland,No,No,Never,Yes,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Other
+43.0,Female,United States,No,Yes,Rarely,Yes,Yes,Yes,Yes,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+25.0,Female,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,United States
+23.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,Don't know,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,United States
+37.0,Male,Netherlands,Yes,No,Never,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Very easy,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Netherlands
+32.0,Male,United States,No,Yes,Never,No,Yes,Don't know,Not sure,No,No,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,United States
+28.0,Male,Germany,No,No,Never,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Germany
+32.0,Male,United Kingdom,No,No,Sometimes,No,No,Yes,Yes,No,No,Very easy,No,No,No,Yes,No,No,Yes,No,United Kingdom
+33.0,Male,United States,No,Yes,Sometimes,No,No,No,Yes,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+32.0,Male,United States,No,No,Rarely,Yes,Yes,No,Yes,No,No,Very difficult,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+24.0,Female,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No,United States
+21.0,Male,United States,No,Yes,Not applicable,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+31.0,Female,Canada,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,Canada
+30.0,Male,United States,Yes,No,Often,Yes,Yes,No,Not sure,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+42.0,Male,New Zealand,No,No,Sometimes,No,No,No,Yes,Don't know,No,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes,Other
+28.0,Female,United States,No,No,Rarely,No,Yes,Yes,No,No,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,No,Yes,United States
+39.0,Female,United States,No,No,Not applicable,Yes,No,No,Yes,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,United States
+29.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+29.0,Male,United States,No,No,Rarely,No,Yes,Yes,No,No,No,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+28.0,Female,United States,No,Yes,Often,Yes,Yes,Yes,No,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,No,Yes,United States
+30.0,Female,United States,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,No,Yes,United States
+30.0,Other,United States,No,Yes,Rarely,No,Yes,Yes,Not sure,No,No,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+33.0,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United Kingdom
+20.0,Female,Switzerland,No,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Other
+33.0,Male,United States,No,Yes,Often,Yes,Yes,No,Yes,No,No,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,United States
+23.0,Male,Canada,No,No,Often,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,Canada
+23.0,Female,United Kingdom,No,Yes,Never,No,No,No,No,No,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Don't know,No,United Kingdom
+49.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Not sure,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,United States
+35.0,Male,United States,No,Yes,Sometimes,No,No,No,Yes,No,No,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+28.0,Male,Netherlands,No,No,Not applicable,No,Yes,No,Not sure,No,No,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Netherlands
+28.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,Don't know,Yes,United States
+32.0,Male,United Kingdom,No,No,Not applicable,No,Yes,Don't know,Not sure,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,United Kingdom
+27.0,Male,Canada,No,No,Never,No,No,Yes,Not sure,No,No,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Canada
+29.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+46.0,Female,United States,No,No,Not applicable,Yes,Yes,No,Yes,No,No,Don't know,Yes,No,No,No,No,No,No,No,United States
+25.0,Male,United States,No,Yes,Often,Yes,Yes,Yes,Yes,No,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+40.0,Male,United States,No,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,No,Maybe,No,Yes,United States
+25.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+24.0,Male,United Kingdom,No,No,Rarely,No,Yes,Don't know,Not sure,Yes,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,United Kingdom
+37.0,Female,Canada,Yes,Yes,Rarely,Yes,Yes,No,Yes,No,No,Somewhat easy,Yes,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Yes,Canada
+37.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,United States
+30.0,Male,Singapore,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No,Yes,Other
+25.0,Male,United States,No,Yes,Not applicable,No,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+23.0,Male,Sweden,No,No,Rarely,No,Yes,Don't know,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Other
+31.0,Male,Germany,No,Yes,Sometimes,No,Yes,Don't know,No,No,No,Somewhat easy,No,No,Some of them,No,No,No,Don't know,No,Germany
+19.0,Male,Slovenia,No,No,Sometimes,No,Yes,Don't know,No,No,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,Other
+34.0,Male,United States,No,No,Never,No,Yes,No,No,No,No,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+24.0,Male,United States,No,No,Never,No,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+28.0,Female,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,No,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,No,No,United States
+27.0,Male,United States,No,No,Sometimes,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,United States
+39.0,Male,United Kingdom,Yes,No,Often,No,Yes,No,No,No,No,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,Yes,United Kingdom
+33.0,Other,United States,No,No,Sometimes,No,Yes,No,Yes,No,No,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,United States
+35.0,Male,Denmark,Yes,Yes,Often,No,Yes,No,Yes,Yes,No,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Other
+26.0,Male,United States,No,No,Not applicable,No,No,No,No,No,No,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,United States
+31.0,Male,Australia,No,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,No,No,Australia
+60.0,Male,United States,No,No,Often,Yes,Yes,Don't know,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,United States
+38.0,Male,United States,No,Yes,Not applicable,No,Yes,Don't know,No,No,No,Somewhat difficult,No,No,Some of them,Yes,No,No,Don't know,Yes,United States
+22.0,Female,United States,No,No,Not applicable,No,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,No,Some of them,No,No,Yes,No,United States
+30.0,Male,United States,Yes,Yes,Often,No,Yes,Yes,Not sure,Yes,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+42.0,Male,United States,Yes,No,Rarely,Yes,No,No,Yes,No,No,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+21.0,Male,United Kingdom,No,No,Sometimes,No,No,Don't know,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United Kingdom
+31.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,United States
+40.0,Male,United States,No,No,Not applicable,No,No,Yes,Not sure,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+27.0,Male,Germany,No,Yes,Sometimes,No,Yes,No,Not sure,No,No,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,Germany
+28.0,Male,United States,No,No,Never,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+19.0,Male,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,United States
+24.0,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No,United Kingdom
+56.0,Female,United States,Yes,No,Rarely,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,United States
+42.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+43.0,Male,Canada,Yes,No,Not applicable,Yes,Yes,No,Not sure,No,No,Somewhat easy,Maybe,No,Yes,Yes,Yes,Yes,Don't know,No,Canada
+35.0,Male,United States,No,Yes,Often,No,No,Yes,Yes,No,Yes,Somewhat easy,Yes,No,No,Some of them,No,Yes,Don't know,No,United States
+31.0,Male,Canada,No,Yes,Often,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Canada
+33.0,Male,United States,No,Yes,Never,No,Yes,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+42.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No,United States
+34.0,Male,United States,No,Yes,Sometimes,Yes,No,Yes,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+36.0,Female,United States,No,Yes,Rarely,No,Yes,Don't know,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,United States
+33.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Don't know,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,United States
+29.0,Male,Singapore,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,Other
+30.0,Male,United Kingdom,No,No,Sometimes,No,Yes,Don't know,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,United Kingdom
+28.0,Male,Germany,No,No,Never,No,Yes,No,No,No,No,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Don't know,No,Germany
+30.0,Male,India,No,No,Often,No,Yes,No,No,No,No,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Other
+22.0,Male,Netherlands,Yes,No,Never,No,Yes,Don't know,Not sure,No,No,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,No,Yes,Netherlands
+33.0,Male,Germany,No,Yes,Often,No,Yes,Don't know,Not sure,Yes,No,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,Germany
+35.0,Male,Canada,No,No,Sometimes,No,Yes,Don't know,No,No,No,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Canada
+33.0,Female,United Kingdom,Yes,No,Sometimes,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United Kingdom
+27.0,Female,United States,No,Yes,Sometimes,No,Yes,Yes,No,No,No,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,United States
+32.0,Female,Canada,No,No,Often,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Canada
+34.0,Male,United States,Yes,No,Rarely,Yes,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+34.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,Yes,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,United States
+27.0,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,No,United Kingdom
+40.0,Female,United States,No,No,Not applicable,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+38.0,Male,United States,No,No,Rarely,Yes,Yes,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,United States
+35.0,Male,United States,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,United States
+30.0,Male,Italy,No,No,Sometimes,No,No,Don't know,No,No,No,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Other
+37.0,Male,United States,No,No,Not applicable,No,Yes,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,United States
+27.0,Male,United Kingdom,No,No,Rarely,Yes,No,Don't know,Not sure,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United Kingdom
+39.0,Female,United States,No,No,Sometimes,Yes,Yes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,United States
+34.0,Male,United States,No,No,Not applicable,No,No,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,United States
+29.0,Male,Sweden,No,No,Rarely,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,Yes,Don't know,Yes,Other
+41.0,Other,United States,No,No,Not applicable,No,Yes,Yes,Not sure,No,No,Very easy,Yes,No,No,Some of them,No,No,Don't know,No,United States
+27.0,Male,United States,No,No,Rarely,Yes,Yes,No,Yes,No,No,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,United States
+24.0,Male,United Kingdom,Yes,Yes,Often,Yes,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,United Kingdom
+26.0,Female,United States,No,Yes,Often,No,No,Don't know,No,No,No,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,United States
+30.0,Male,United States,No,No,Often,No,Yes,No,Yes,No,No,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+27.0,Male,United States,No,No,Rarely,No,Yes,Yes,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,United States
+40.0,Male,United States,No,Yes,Sometimes,Yes,No,Yes,Not sure,Yes,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,United States
+22.0,Male,Sweden,No,No,Not applicable,No,Yes,Don't know,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,Other
+31.0,Male,United States,No,Yes,Rarely,No,Yes,No,No,No,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,No,No,Yes,United States
+35.0,Male,United States,No,Yes,Not applicable,No,Yes,Yes,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,United States
+25.0,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+36.0,Male,United States,No,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,Some of them,Yes,No,Yes,No,No,United States
+34.0,Male,Canada,No,No,Never,No,Yes,Don't know,Not sure,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Canada
+27.0,Female,United States,No,Yes,Often,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,United States
+54.0,Male,United Kingdom,Yes,Yes,Sometimes,Yes,Yes,Don't know,Not sure,No,No,Very easy,No,No,Some of them,Yes,Yes,Yes,Don't know,Yes,United Kingdom
+31.0,Male,United States,No,No,Not applicable,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,United States
+21.0,Male,United States,No,Yes,Rarely,No,Yes,Yes,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+38.0,Male,United States,No,No,Never,Yes,Yes,No,Yes,No,No,Very difficult,Yes,Yes,No,No,No,No,Don't know,No,United States
+27.0,Female,United States,No,No,Sometimes,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,United States
+29.0,Male,France,No,No,Often,No,Yes,Yes,No,No,No,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,Yes,No,No,France
+30.0,Male,United States,No,No,Not applicable,No,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,United States
+33.0,Male,United Kingdom,No,No,Sometimes,No,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United Kingdom
+39.0,Male,United States,No,No,Not applicable,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,United States
+29.0,Male,United States,No,No,Sometimes,No,Yes,Yes,Yes,No,No,Don't know,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+28.0,Male,Germany,No,Yes,Rarely,Yes,Yes,Yes,No,No,No,Very easy,No,No,Yes,Yes,No,No,Yes,No,Germany
+61.0,Male,South Africa,Yes,No,Sometimes,Yes,Yes,No,No,No,No,Very difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,Other
+25.0,Female,Bulgaria,No,No,Sometimes,Yes,Yes,No,No,No,No,Don't know,Maybe,Maybe,Yes,Some of them,Maybe,No,No,No,Other
+23.0,Male,United Kingdom,No,No,Never,No,Yes,Yes,Not sure,Yes,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United Kingdom
+34.0,Female,Canada,No,Yes,Sometimes,No,No,Yes,Yes,Yes,No,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,Canada
+23.0,Male,United States,No,No,Not applicable,No,Yes,Don't know,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,No,United States
+30.0,Male,United States,No,Yes,Never,No,Yes,Yes,No,Don't know,Yes,Very difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,No,United States
+24.0,Female,United States,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,United States
+29.0,Male,United States,No,No,Not applicable,No,No,Don't know,Not sure,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,United States
+21.0,Male,United Kingdom,Yes,No,Often,Yes,No,No,Yes,No,No,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,United Kingdom
+51.0,Male,United States,Yes,No,Never,No,Yes,No,Yes,No,No,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,United States
+27.0,Female,United States,No,No,Rarely,No,Yes,Yes,Yes,No,No,Don't know,Yes,Maybe,No,No,No,No,No,No,United States
+24.0,Male,United States,No,No,Sometimes,Yes,Yes,Don't know,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United States
+38.0,Male,United Kingdom,No,Yes,Not applicable,No,No,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,United Kingdom
+39.0,Female,United Kingdom,No,No,Sometimes,No,Yes,Yes,Yes,No,Yes,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,United Kingdom
+29.0,Male,Canada,Yes,No,Never,Yes,Yes,Yes,Yes,No,No,Very difficult,Yes,No,Some of them,No,No,Yes,No,No,Canada
+26.0,Male,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,United States
+72.0,Female,United States,No,Yes,Never,Yes,No,Yes,Not sure,Don't know,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Don't know,Yes,United States
+51.0,Male,New Zealand,No,No,Sometimes,Yes,Yes,No,Yes,Yes,No,Somewhat difficult,Yes,Yes,No,No,No,No,Don't know,Yes,Other
+57.0,Male,United States,No,Yes,Rarely,No,Yes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,United States
+34.0,Male,United States,No,No,Sometimes,Yes,Yes,Don't know,Not sure,No,Don't know,Somewhat difficult,No,No,Some of them,No,No,No,No,No,United States
+32.0,Female,Ireland,No,Yes,Never,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Ireland
+38.0,Male,United States,No,Yes,Sometimes,Yes,No,Yes,Yes,No,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,United States
+27.0,Male,United States,No,No,Rarely,No,Yes,No,Yes,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,United States
+45.0,Female,United States,No,No,Rarely,No,No,Don't know,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,United States
+21.0,Male,Canada,No,No,Sometimes,Yes,Yes,No,Yes,No,No,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Canada
+28.0,Female,Canada,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,No,Yes,Canada
+27.0,Male,United States,No,No,Never,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,United States
+33.0,Other,Italy,No,Yes,Sometimes,No,Yes,No,Not sure,No,No,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Other
+28.0,Female,United States,No,Yes,Sometimes,No,Yes,Don't know,Not sure,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,United States
+32.0,Male,United Kingdom,No,No,Not applicable,No,Yes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No,United Kingdom
+28.0,Male,Australia,No,No,Often,Yes,Yes,No,Yes,No,No,Don't know,Yes,No,No,No,No,Maybe,No,No,Australia
+25.0,Male,United States,No,Yes,Not applicable,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,United States
+44.0,Male,United States,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,United States
+37.0,Male,Germany,No,No,Not applicable,Yes,Yes,No,Not sure,No,No,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,Germany
+37.0,Male,United States,Yes,No,Not applicable,Yes,Yes,Yes,Yes,Yes,No,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,United States
+35.0,Female,United States,No,Yes,Never,No,Yes,Yes,Not sure,Don't know,No,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,United States

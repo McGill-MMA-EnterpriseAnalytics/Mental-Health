@@ -43,8 +43,8 @@ flowchart TD
     J --> K[CI/CD Integration: GitHub Actions]
 
 **Quick Start Guide**
-- Install Requirements
-* pip install -r requirements.txt
+
+- Install Requirements: pip install -r requirements.txt
 
 - Local Development
 1. Preprocess Data: python data_preprocessing/preprocess.py

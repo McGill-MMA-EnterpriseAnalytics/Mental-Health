@@ -65,4 +65,11 @@ Every push to the main branch triggers the GitHub Actions workflow to:
   2. Run unit tests in /tests/
      
   3. Validate the FastAPI server  
-You can find the workflow file in .github/workflows/ci.yml. 
+You can find the workflow file in .github/workflows/ci.yml.
+
+**Key Results**
+
+- Achieved 81% overall test accuracy on the mental health treatment prediction task.
+- Implemented fairness auditing with demographic parity and equalized odds difference metrics.
+- Deployed Dockerized FastAPI API and integrated CI/CD with GitHub Actions.
+- Set up drift detection using Evidently AI for continuous monitoring.

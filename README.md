@@ -85,38 +85,20 @@ You can find the workflow file in .github/workflows/ci.yml.
 - Set up drift detection using Evidently AI for continuous monitoring.
 
 
-**Repository Structure**
+**Project End-to-End Pipeline**
+
 ```mermaid
 flowchart TD
-    A1[mental-health-prediction/] --> B1[.github/workflows/ci.yml (GitHub Actions for CI/CD)]
-    A1 --> B2[Experiments/ (Training experiments with different models)]
-    B2 --> B21[train_xgboost.py, train_catboost.py, etc. (model training scripts)]
-    A1 --> B3[data_preprocessing/ (Data cleaning and preprocessing code)]
-    B3 --> B31[cleaning_utils.py, preprocess.py (data cleaning functions)]
-    A1 --> B4[drift_fairness/ (Drift detection and fairness evaluation)]
-    B4 --> B41[monitor_drift.py, check_fairness.py (monitor and report drift/fairness)]
-    A1 --> B5[explainability/ (Explainability notebooks)]
-    B5 --> B51[explainability.ipynb (model explanation analysis)]
-    A1 --> B6[inference/ (API for inference)]
-    B6 --> B61[api.py (FastAPI server for prediction)]
-    A1 --> B7[mlruns/ (MLflow experiment tracking folder)]
-    A1 --> B8[modeling/ (Final model artifacts and training scripts)]
-    B8 --> B81[train_model.py (final training pipeline)]
-    B8 --> B82[classifier.pkl, preprocessor.pkl (saved model and preprocessor)]
-    A1 --> B9[tests/ (Pytest unit tests)]
-    B9 --> B91[test_preprocessing.py, test_model.py, test_api.py (test scripts)]
-    A1 --> B10[venv/ (Virtual environment folder)]
-    A1 --> B11[working notebooks/ (Work-in-progress teammate notebooks)]
-    B11 --> B111[Data_Preprocessing_and_EDA.ipynb, Fairness_Analysis.ipynb (initial exploration)]
-    A1 --> B12[conftest.py (Pytest configuration)]
-    A1 --> B13[.DS_Store (MacOS system file)]
-    A1 --> B14[README.md (Main project documentation)]
-    A1 --> B15[docker-compose.yml (Docker orchestration)]
-    A1 --> B16[dockerfile (Docker build file)]
-    A1 --> B17[requirements.txt (Python dependencies)]
-    A1 --> B18[survey.csv (Raw dataset)]
+    A[Data Collection: survey.csv] --> B[Data Preprocessing: cleaning_utils.py, preprocess.py]
+    B --> C[Train/Test Split: X_train_final.csv, X_test_final.csv, y_train_final.csv, y_test_final.csv]
+    C --> D[Model Training: Logistic Regression, Random Forest, XGBoost, etc.]
+    D --> E[Hyperparameter Tuning: Optuna (best_xgb_params.json)]
+    E --> F[Model Evaluation: Accuracy, Fairness (fairlearn), Explainability (SHAP, LIME)]
+    F --> G[Model Saving: classifier.pkl, preprocessor.pkl, explainer.pkl]
+    G --> H[API Deployment: FastAPI api.py]
+    H --> I[Containerization: dockerfile, docker-compose.yml]
+    I --> J[CI/CD Automation: GitHub Actions (ci.yml)]
+    F --> K[Fairness & Drift Monitoring: monitor_drift.py, check_fairness.py, EvidentlyAI reports]
 ```
-
-
 
 

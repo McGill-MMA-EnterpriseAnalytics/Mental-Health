@@ -3,8 +3,10 @@ Team Members: Phoebe Gao, Yina Liang Li, Carol Wang, Yuri Xu, and Qian Zhao.
 
 **Problem Statement**
 
-Mental health issues, such as anxiety and depression, are increasingly prevalent, especially in the workplace. Early prediction and intervention can significantly improve individuals' well-being and productivity.
-In this project, we aim to predict whether someone is likely to seek treatment for mental health conditions based on their lifestyle, work environment, and demographic information.
+Mental health issues, such as anxiety and depression, are increasingly prevalent, especially in the workplace.
+Early prediction and intervention can significantly improve individuals' well-being and productivity.
+In this project, we aim to predict whether an individual is likely to seek treatment for mental health conditions based on survey data, including information about their lifestyle, work environment, and demographic characteristics.
+Early identification can help employers and healthcare providers offer better support and resources to those in need.
 
 **Dataset Description**
 
@@ -101,4 +103,13 @@ flowchart TD
     F --> K[Monitoring \nFairness and Drift monitoring scripts]
 ```
 
+**Methodology Overview**
+
+Our end-to-end pipeline includes:
+- Exploratory Data Analysis (EDA) to understand data distributions and patterns
+- Model training and hyperparameter optimization (Logistic Regression, Random Forest, XGBoost)
+- Model explainability with SHAP to interpret feature contributions
+- Deployment of the final model as a live API using FastAPI and Docker
+- Continuous Integration/Deployment (CI/CD) via GitHub Actions
+- Fairness and drift monitoring to ensure model robustness over time
 

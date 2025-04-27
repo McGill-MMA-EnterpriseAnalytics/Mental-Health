@@ -60,8 +60,7 @@ flowchart TD
 -  Continuous Integration (CI)  
 Every push to the main branch triggers the GitHub Actions workflow to:
 
-- Automatically build the Docker image
-- Run unit tests in /tests/
-- Validate the FastAPI server
-
+  1.Automatically build the Docker image
+  2. Run unit tests in /tests/
+  3. Validate the FastAPI server  
 You can find the workflow file in .github/workflows/ci.yml. 

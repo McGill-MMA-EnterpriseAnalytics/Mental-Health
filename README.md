@@ -14,6 +14,7 @@ Key Features:
 - Demographics: Age, Gender, Country 
 - Workplace Factors: Remote work, Company size, Mental health benefits, Work interference
 - Medical History: Family mental illness, Previous diagnosis, Past treatment
-- Perceptions and Awareness: Comfort discussing mental health, Employer support  
+- Perceptions and Awareness: Comfort discussing mental health, Employer support
+  
 Target Variable:
 - treatment: Whether the individual has sought treatment for a mental health condition (Yes/No)

@@ -1,43 +1,18 @@
 # Mental Health Prediction from Online Survey
 ### Team Members: Phoebe Gao, Yina Liang Li, Carol Wang, Yuri Xu, and Qian Zhao.
 
+**Problem Statement**
 
-## Project Overview
+Mental health issues, such as anxiety and depression, are increasingly prevalent, especially in the workplace. Early prediction and intervention can significantly improve individuals' well-being and productivity.
+In this project, we aim to predict whether someone is likely to seek treatment for mental health conditions based on their lifestyle, work environment, and demographic information.
 
+**Dataset Description**
 
-## Data Preprocessing and EDA
-This initial phase focuses on cleaning, preprocessing, and exploring the mental health survey dataset. It prepares the data for the modeling phase by addressing the missing values, encoding categorical variables, and visualizing key insights.
-
-All variables are categorical except for 'Age', making it unfeasible to perform a correlation analysis. 
-
-**The preprocessing steps are as follows:**
-
-1. Dropped irrelevant columns: These are the columns named 'comments', 'timestamp', 'state', 'no_employees', and 'anonymity'.
-  
-2. Handled missing values: Filled the 'self_employed' variable missing values with the mode value, 'No'.
-
-3. Cleaned age values: Filtered the dataset to include a reasonable range of age values from 18 to 100 years.
-
-4. Standardized the gender entries: Consolidated all gender entries into 'Male', 'Female', and 'Other'.
-
-5. Dropped duplicated rows: There are only 4 duplicated rows.
-
-6. Encoding strategy:
-    - If unique categories in the variable are less than or equal to 5, apply one-hot encoding.
-    - If unique categories in the variables are more than 5, apply label encoding. 
-
-
-**EDA:**
-
-- Visualized distribution of age, gender, and treatment seeking behavior.
-- Identified the imbalances in predictors using histograms.
-  - Balanced features identified are:
-    - Work interference
-    - Supervisor and Coworker support
-    - Family history
-    - Care options
-    - Benefits
-    - Physical health interview (comfort when discussing)
-    - Mental vs Physical health (equal importance for both)
-
-The key insights tells us that we have a male dominant sample, the majority of the participants/respondents are from the United States, there are limited access to mental health benefits in workplaces, and mental health openness is still very low in the interview settings.
+Source: Kaggle – Mental Health in Tech Survey
+Key Features:
+Demographics: Age, Gender, Country
+Workplace Factors: Remote work, Company size, Mental health benefits, Work interference
+Medical History: Family mental illness, Previous diagnosis, Past treatment
+Perceptions and Awareness: Comfort discussing mental health, Employer support
+Target Variable:
+treatment: Whether the individual has sought treatment for a mental health condition (Yes/No)

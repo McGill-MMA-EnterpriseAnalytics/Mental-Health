@@ -9,10 +9,11 @@ In this project, we aim to predict whether someone is likely to seek treatment f
 **Dataset Description**
 
 Source: Kaggle – Mental Health in Tech Survey
-Key Features:
-Demographics: Age, Gender, Country
-Workplace Factors: Remote work, Company size, Mental health benefits, Work interference
-Medical History: Family mental illness, Previous diagnosis, Past treatment
-Perceptions and Awareness: Comfort discussing mental health, Employer support
+
+Key Features:  
+- Demographics: Age, Gender, Country 
+- Workplace Factors: Remote work, Company size, Mental health benefits, Work interference
+- Medical History: Family mental illness, Previous diagnosis, Past treatment
+- Perceptions and Awareness: Comfort discussing mental health, Employer support
 Target Variable:
-treatment: Whether the individual has sought treatment for a mental health condition (Yes/No)
+- treatment: Whether the individual has sought treatment for a mental health condition (Yes/No)

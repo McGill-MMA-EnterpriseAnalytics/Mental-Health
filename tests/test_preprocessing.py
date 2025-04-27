@@ -6,7 +6,7 @@ import pytest
 
 def test_preprocessor_fit_transform():
     # Load preprocessor
-    preprocessor = joblib.load('/Users/qianzhao/Desktop/Enterprise/formal version/modeling/preprocessor.pkl')
+    preprocessor = joblib.load('modeling/preprocessor.pkl')
 
     # Create a small sample input
     sample_data = pd.DataFrame({

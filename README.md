@@ -119,6 +119,11 @@ Our end-to-end pipeline includes:
    
 Then run the following command to build the Docker image: docker build -t mental-health-api .
 
-- 
+- How to Run the Docker Container
+- - After building the image, run the container exposing port 8000: docker run -p 8000:8000 mental-health-api
+- - Once the container is running, the API will be available at: http://localhost:8000
+- - You can then access the interactive API docs via: http://localhost:8000/docs
+
+
 
 

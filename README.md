@@ -83,15 +83,15 @@ You can find the workflow file in .github/workflows/ci.yml.
 
 ```mermaid
 flowchart TD
-    A[Data Collection \nSurvey CSV data collection] --> B[Data Preprocessing 🛠️\nCleaning and encoding data]
-    B --> C[Train-Test Split ✂\nSplit into training and testing sets]
+    A[Data Collection \nSurvey CSV data collection] --> B[Data Preprocessing \nCleaning and encoding data]
+    B --> C[Train-Test Split \nSplit into training and testing sets]
     C --> D[Model Training \nTrain Logistic Regression, Random Forest, XGBoost]
     D --> E[Hyperparameter Tuning \nOptimize with Optuna study]
     E --> F[Model Evaluation \nEvaluate Accuracy, Fairness, Explainability]
     F --> G[Model Saving \nSave classifier and preprocessor]
     G --> H[API Deployment \nDeploy with FastAPI app]
     H --> I[Containerization \nBuild Docker image and compose]
-    I --> J[CI-CD Automation ⚙\nGitHub Actions workflow for CI-CD]
+    I --> J[CI-CD Automation \nGitHub Actions workflow for CI-CD]
     F --> K[Monitoring \nFairness and Drift monitoring scripts]
 ```
 

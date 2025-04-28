@@ -24,23 +24,11 @@ It enables real-time inference through a FastAPI server.
 
 ##  How to Run Locally
 
-1. Install dependencies:
+1. Install dependencies: pip install fastapi uvicorn joblib scikit-learn
+    
+2. Run the FastAPI server: uvicorn api:app --reload
 
-    ```bash
-    pip install fastapi uvicorn joblib scikit-learn
-    ```
-
-2. Run the FastAPI server:
-
-    ```bash
-    uvicorn api:app --reload
-    ```
-
-3. Access the interactive API documentation at:
-
-    ```
-    http://127.0.0.1:8000/docs
-    ```
+3. Access the interactive API documentation at: http://127.0.0.1:8000/docs
 
 ---
 
@@ -49,6 +37,7 @@ It enables real-time inference through a FastAPI server.
 | Endpoint | Method | Description |
 |:---|:---|:---|
 | `/predict` | POST | Accepts user information and returns mental health risk prediction |
+| `/explain` | POST | Accepts user information and returns mental health SHAP values |
 
 Example payload for `/predict`:
 

@@ -113,3 +113,9 @@ Our end-to-end pipeline includes:
 - Continuous Integration/Deployment (CI/CD) via GitHub Actions
 - Fairness and drift monitoring to ensure model robustness over time
 
+**Deployment Instructions**
+-  How to Build the Docker Image
+-  - Make sure you are in the project root directory.
+Then run the following command to build the Docker image: docker build -t mental-health-api .
+
+

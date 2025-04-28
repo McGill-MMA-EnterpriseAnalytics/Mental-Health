@@ -26,49 +26,66 @@ Key Features:
 Target Variable:
 - treatment: Whether the individual has sought treatment for a mental health condition (Yes/No)
 
-## Project Structure Overview
+**Project Structure Overview**
 
 ```mermaid
 flowchart TD
     A1[mental-health-prediction/] --> B1[data_preprocessing/]
-    B1 --> B2[preprocess.py]
+    B1 --> B2[cleaning_utils.py]
+    B1 --> B3[preprocess.py]
+    B1 --> B4[X_clean.csv]
+    B1 --> B5[y_clean.csv]
 
-    A1 --> C1[modeling/]
-    C1 --> C2[train_model.py]
+    A1 --> C1[drift_fairness/]
+    C1 --> C2[check_fairness.py]
+    C1 --> C3[monitor_drift.py]
+    C1 --> C4[feature_drift_report.html]
+    C1 --> C5[simulate_data.py]
+    C1 --> C6[simulated_current.csv]
 
-    A1 --> D1[inference/]
-    D1 --> D2[api.py]
+    A1 --> D1[Experiments/]
+    D1 --> D2[train_catboost.py]
+    D1 --> D3[train_label_propagation.py]
+    D1 --> D4[train_logistic_regression.py]
+    D1 --> D5[train_random_forest.py]
+    D1 --> D6[train_self_training.py]
+    D1 --> D7[train_xgboost.py]
 
-    A1 --> E1[drift_fairness/]
-    E1 --> E2[monitor_drift.py]
+    A1 --> E1[inference/]
+    E1 --> E2[api.py]
 
-    A1 --> F1[explainability/]
+    A1 --> F1[modeling/]
+    F1 --> F2[train_model.py]
+    F1 --> F3[pseudo_labeling.py]
+    F1 --> F4[best_xgb_params.json]
+    F1 --> F5[best_xgb_pipeline.pkl]
+    F1 --> F6[classifier.pkl]
+    F1 --> F7[preprocessor.pkl]
+    F1 --> F8[explainer.pkl]
+    F1 --> F9[X_train_final.csv]
+    F1 --> F10[X_test_final.csv]
+    F1 --> F11[y_train_final.csv]
+    F1 --> F12[y_test_final.csv]
 
-    A1 --> G1[Experiments/]
+    A1 --> G1[tests/]
+    G1 --> G2[test_api.py]
+    G1 --> G3[test_model.py]
+    G1 --> G4[test_preprocessing.py]
 
-    A1 --> H1[Notebooks with Insights/]
+    A1 --> H1[mlruns/]
 
-    A1 --> I1[Casual Inference and Clustering/]
-    I1 --> I2[Causal_Inference.ipynb]
-    I1 --> I3[Clustering.ipynb]
+    A1 --> I1[.github/workflows/]
+    I1 --> I2[ci.yml]
 
-    A1 --> J1[tests/]
-    J1 --> J2[test_preprocessing.py]
+    A1 --> J1[dockerfile]
+    A1 --> J2[docker-compose.yml]
+    A1 --> J3[requirements.txt]
+    A1 --> J4[conftest.py]
+    A1 --> J5[README.md]
+    A1 --> J6[survey.csv]
+    A1 --> J7[survey_encoded.csv]
 
-    A1 --> K1[mlruns/]
-
-    A1 --> L1[.github/workflows/]
-    L1 --> L2[ci.yml]
-
-    A1 --> M1[Dockerfile]
-    A1 --> M2[docker-compose.yml]
-    A1 --> M3[requirements.txt]
-    A1 --> M4[CONTRIBUTING.md]
-    A1 --> M5[README.md]
-    A1 --> M6[conftest.py]
-    A1 --> M7[survey.csv]
 ```
-
 **Quick Start Guide**
 
 - Install Requirements: pip install -r requirements.txt

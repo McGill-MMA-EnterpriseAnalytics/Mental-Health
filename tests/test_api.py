@@ -6,8 +6,6 @@ This test:
 - Verifies that the response status code is 200 (OK).
 - Can be skipped on GitHub Actions where no server is running.
 
-Author: Your Name
-Date: YYYY-MM-DD
 """
 
 import pytest

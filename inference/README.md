@@ -14,16 +14,16 @@ Contents
 - train_xgboost.py	Train an XGBoost model with hyperparameter tuning for final deployment.
 Purpose
 
-Model Benchmarking: Compare traditional, ensemble, and semi-supervised learning methods.
-Final Model Selection: Choose the best-performing model (based on accuracy, F1-score, fairness).
-Deployment Readiness: The best model will be integrated into the FastAPI service.
+- Model Benchmarking: Compare traditional, ensemble, and semi-supervised learning methods.
+- Final Model Selection: Choose the best-performing model (based on accuracy, F1-score, fairness).
+- Deployment Readiness: The best model will be integrated into the FastAPI service.
 How to Run
 
 Inside your activated virtual environment:
 
-python train_catboost.py
-python train_label_propagation.py
-python train_logistic_regression.py
-python train_random_forest.py
-python train_self_training.py
-python train_xgboost.py
+- python train_catboost.py
+- python train_label_propagation.py
+- python train_logistic_regression.py
+- python train_random_forest.py
+- python train_self_training.py
+- python train_xgboost.py

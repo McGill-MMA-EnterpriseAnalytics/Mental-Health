@@ -25,12 +25,12 @@ def test_preprocessor_fit_transform():
     'mental_health_consequence': ['No'],
     'phys_health_consequence': ['No'],
     'coworkers': ['Some of them'],
-    'supervisor': ['Yes'],                # 补充字段
-    'mental_health_interview': ['No'],     # 补充字段
-    'phys_health_interview': ['No'],       # 补充字段
-    'mental_vs_physical': ['Mental health'],  # 补充字段
-    'obs_consequence': ['No'],             # 补充字段
-    'Age': [30]                            # 补充字段
+    'supervisor': ['Yes'],                
+    'mental_health_interview': ['No'],    
+    'phys_health_interview': ['No'],      
+    'mental_vs_physical': ['Mental health'],  
+    'obs_consequence': ['No'],            
+    'Age': [30]                            
 })
 
 

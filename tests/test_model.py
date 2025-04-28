@@ -7,10 +7,13 @@ This test:
 - Predicts output using the model.
 - Checks prediction success and output shape.
 
+Author: Your Name
+Date: YYYY-MM-DD
 """
 
 import pandas as pd
 import joblib
+import numpy as np  # ✅ Add this line
 import pytest
 
 def test_model_predict():

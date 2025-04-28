@@ -8,8 +8,6 @@ This script:
 
 Useful for evaluating how a model reacts to shifted real-world distributions.
 
-Author: Your Name
-Date: YYYY-MM-DD
 """
 
 import pandas as pd

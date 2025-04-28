@@ -12,9 +12,9 @@ model_path = "/Users/qianzhao/Desktop/Enterprise/formal version/modeling/best_xg
 X_test_path = "/Users/qianzhao/Desktop/Enterprise/formal version/modeling/X_test_final.csv"
 y_test_path = "/Users/qianzhao/Desktop/Enterprise/formal version/modeling/y_test_final.csv"
 
-assert os.path.exists(model_path), "❌ 找不到模型文件，请检查路径！"
-assert os.path.exists(X_test_path), "❌ 找不到X_test文件，请检查路径！"
-assert os.path.exists(y_test_path), "❌ 找不到y_test文件，请检查路径！"
+assert os.path.exists(model_path), 
+assert os.path.exists(X_test_path), 
+assert os.path.exists(y_test_path), 
 
 model = joblib.load(model_path)
 X_test = pd.read_csv(X_test_path)

@@ -1,11 +1,11 @@
-# 🚀 Inference Module
+## Inference Module
 
 This folder contains the API deployment code for the Mental Health Prediction project.  
 It enables real-time inference through a FastAPI server.
 
 ---
 
-## 📄 Files
+##  Files
 
 | File | Description |
 |:---|:---|
@@ -14,7 +14,7 @@ It enables real-time inference through a FastAPI server.
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 - Loads the trained model (`classifier.pkl`) and preprocessor (`preprocessor.pkl`)
 - Accepts user input via API request
@@ -22,7 +22,7 @@ It enables real-time inference through a FastAPI server.
 
 ---
 
-## 📦 How to Run Locally
+##  How to Run Locally
 
 1. Install dependencies:
 
@@ -44,7 +44,7 @@ It enables real-time inference through a FastAPI server.
 
 ---
 
-## 📬 Available API Endpoints
+##  Available API Endpoints
 
 | Endpoint | Method | Description |
 |:---|:---|:---|

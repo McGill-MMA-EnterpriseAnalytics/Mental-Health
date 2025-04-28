@@ -11,8 +11,6 @@ Loads:
 - Trained classification model (classifier.pkl)
 - SHAP explainer (explainer.pkl)
 
-Author: Your Name
-Date: YYYY-MM-DD
 """
 
 from fastapi import FastAPI

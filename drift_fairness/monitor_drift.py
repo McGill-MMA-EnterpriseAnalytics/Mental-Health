@@ -5,8 +5,6 @@ Uses EvidentlyAI's DataDriftPreset to:
 - Compare feature distributions without requiring model outputs.
 - Generate a visual HTML report for PMs, stakeholders, or model maintenance teams.
 
-Author: Your Name
-Date: YYYY-MM-DD
 """
 
 import pandas as pd

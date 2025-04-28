@@ -7,7 +7,6 @@ Table of Contents
 3.Causal Inference Notebook
 4.Clustering Notebook
 5.Key Findings
-
 Project Overview
 The analysis focuses on a mental health survey dataset containing demographic information, workplace environment details, and mental health indicators.
 The project explores:

@@ -5,7 +5,6 @@ This test:
 - Loads the saved preprocessor.
 - Applies it to a sample input.
 - Ensures the transformed output is 2D and has expected shape.
-
 """
 
 import pandas as pd

@@ -1,4 +1,17 @@
-# drift_fairness/check_fairness.py
+"""
+Script for evaluating fairness of a trained model on a test dataset.
+
+This script:
+- Loads a trained model and test data.
+- Predicts test labels.
+- Calculates group-based fairness metrics (Demographic Parity Difference, Equalized Odds Difference).
+- Saves group accuracy as CSV.
+- Generates a radar chart to visualize group accuracies.
+- Produces an HTML report summarizing overall performance and fairness results.
+
+Author: Your Name
+Date: YYYY-MM-DD
+"""
 
 import os
 import joblib
@@ -7,22 +20,26 @@ import matplotlib.pyplot as plt
 from fairlearn.metrics import MetricFrame, demographic_parity_difference, equalized_odds_difference
 from sklearn.metrics import accuracy_score
 
-
+# Paths
 model_path = "/Users/qianzhao/Desktop/Enterprise/formal version/modeling/best_xgb_pipeline.pkl"
 X_test_path = "/Users/qianzhao/Desktop/Enterprise/formal version/modeling/X_test_final.csv"
 y_test_path = "/Users/qianzhao/Desktop/Enterprise/formal version/modeling/y_test_final.csv"
 
-assert os.path.exists(model_path), 
-assert os.path.exists(X_test_path), 
-assert os.path.exists(y_test_path), 
+# Verify paths exist
+assert os.path.exists(model_path), "Model file not found."
+assert os.path.exists(X_test_path), "X_test file not found."
+assert os.path.exists(y_test_path), "y_test file not found."
 
+# Load model and data
 model = joblib.load(model_path)
 X_test = pd.read_csv(X_test_path)
 y_test = pd.read_csv(y_test_path).squeeze()
 
+# Predict
 y_pred = model.predict(X_test)
 
-sensitive_attr = 'Gender'  
+# Fairness Evaluation
+sensitive_attr = 'Gender'
 metric_frame = MetricFrame(
     metrics={"accuracy": accuracy_score},
     y_true=y_test,
@@ -30,6 +47,7 @@ metric_frame = MetricFrame(
     sensitive_features=X_test[sensitive_attr]
 )
 
+# Calculate fairness metrics
 dp_diff = demographic_parity_difference(y_test, y_pred, sensitive_features=X_test[sensitive_attr])
 eo_diff = equalized_odds_difference(y_test, y_pred, sensitive_features=X_test[sensitive_attr])
 
@@ -39,12 +57,14 @@ eo_diff_value = eo_diff.max() if hasattr(eo_diff, 'max') else eo_diff
 dp_color = "green" if abs(dp_diff_value) < 0.1 else "red"
 eo_color = "green" if abs(eo_diff_value) < 0.1 else "red"
 
+# Print evaluation results
 print("\n===== Fairness Evaluation =====")
 print(f"Overall Test Accuracy: {accuracy_score(y_test, y_pred):.4f}")
 print(f"Accuracy by {sensitive_attr} group:\n{metric_frame.by_group}\n")
 print(f"Demographic Parity Difference (max group diff): {dp_diff_value:.4f}")
 print(f"Equalized Odds Difference (max group diff): {eo_diff_value:.4f}")
 
+# Save group accuracies
 output_dir = "/Users/qianzhao/Desktop/Enterprise/formal version/drift_fairness/fairness_reports"
 os.makedirs(output_dir, exist_ok=True)
 
@@ -52,7 +72,16 @@ csv_path = os.path.join(output_dir, "accuracy_by_group.csv")
 metric_frame.by_group.to_csv(csv_path)
 print(f"✅ Accuracy by group saved to {csv_path}")
 
-def plot_fairness_radar(data, title, save_path):
+# Radar chart plotting function
+def plot_fairness_radar(data: pd.DataFrame, title: str, save_path: str) -> None:
+    """
+    Generate and save a radar chart of group accuracies.
+
+    Args:
+        data (pd.DataFrame): Metric values by group.
+        title (str): Title of the chart.
+        save_path (str): Path to save the chart image.
+    """
     labels = list(data.index)
     values = data.values.flatten().tolist()
     values += values[:1]
@@ -70,12 +99,13 @@ def plot_fairness_radar(data, title, save_path):
     plt.savefig(save_path)
     plt.close()
 
+# Save radar chart
 radar_path = os.path.join(output_dir, "fairness_radar.png")
 plot_fairness_radar(metric_frame.by_group, f"Accuracy by {sensitive_attr}", radar_path)
 print(f"✅ Fairness radar chart saved to {radar_path}")
 
+# Generate HTML report
 overall_accuracy = accuracy_score(y_test, y_pred)
-
 html_report_path = os.path.join(output_dir, "fairness_report.html")
 
 html_content = f"""
@@ -138,17 +168,14 @@ html_content = f"""
     </tr>
 """
 
-
 for group, acc in metric_frame.by_group.iterrows():
-    acc_value = acc['accuracy']  
+    acc_value = acc['accuracy']
     html_content += f"""
     <tr>
         <td>{group}</td>
         <td>{acc_value:.4f}</td>
     </tr>
     """
-
-
 
 html_content += f"""
 </table>
@@ -160,6 +187,7 @@ html_content += f"""
 </html>
 """
 
+# Write HTML file
 with open(html_report_path, "w", encoding="utf-8") as f:
     f.write(html_content)
 

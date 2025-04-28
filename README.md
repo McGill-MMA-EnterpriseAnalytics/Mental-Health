@@ -36,23 +36,33 @@ flowchart TD
 
     A1 --> E1[drift_fairness/]
     E1 --> E2[monitor_drift.py]
-    E1 --> E3[check_fairness.py]
 
-    A1 --> F1[tests/]
-    F1 --> F2[test_preprocessing.py]
-    F1 --> F3[test_model.py]
+    A1 --> F1[explainability/]
 
-    A1 --> G1[notebooks/]
-    G1 --> G2[explainability.ipynb]
+    A1 --> G1[Experiments/]
 
-    A1 --> H[Dockerfile]
-    A1 --> I[requirements.txt]
-    A1 --> J[.pre-commit-config.yaml]
-    A1 --> K[.github/workflows/ci.yml]
-    A1 --> L[mlruns/]
-    A1 --> M[README.md]
+    A1 --> H1[Notebooks with Insights/]
+
+    A1 --> I1[Casual Inference and Clustering/]
+    I1 --> I2[Causal_Inference.ipynb]
+    I1 --> I3[Clustering.ipynb]
+
+    A1 --> J1[tests/]
+    J1 --> J2[test_preprocessing.py]
+
+    A1 --> K1[mlruns/]
+
+    A1 --> L1[.github/workflows/]
+    L1 --> L2[ci.yml]
+
+    A1 --> M1[Dockerfile]
+    A1 --> M2[docker-compose.yml]
+    A1 --> M3[requirements.txt]
+    A1 --> M4[CONTRIBUTING.md]
+    A1 --> M5[README.md]
+    A1 --> M6[conftest.py]
+    A1 --> M7[survey.csv]
 ```
-
 
 **Quick Start Guide**
 
@@ -83,16 +93,17 @@ You can find the workflow file in .github/workflows/ci.yml.
 
 ```mermaid
 flowchart TD
-    A[Data Collection \nSurvey CSV data collection] --> B[Data Preprocessing \nCleaning and encoding data]
-    B --> C[Train-Test Split \nSplit into training and testing sets]
-    C --> D[Model Training \nTrain Logistic Regression, Random Forest, XGBoost]
-    D --> E[Hyperparameter Tuning \nOptimize with Optuna study]
-    E --> F[Model Evaluation \nEvaluate Accuracy, Fairness, Explainability]
-    F --> G[Model Saving \nSave classifier and preprocessor]
-    G --> H[API Deployment \nDeploy with FastAPI app]
-    H --> I[Containerization \nBuild Docker image and compose]
-    I --> J[CI-CD Automation \nGitHub Actions workflow for CI-CD]
-    F --> K[Monitoring \nFairness and Drift monitoring scripts]
+    A[Data Collection \nCollect raw survey data (survey.csv)] --> B[Data Preprocessing \nClean, encode, and feature engineer data]
+    B --> C[Exploratory Data Analysis \nVisualize and understand data distribution]
+    C --> D[Train-Test Split \nSplit into training and testing sets]
+    D --> E[Model Training \nTrain Logistic Regression, Random Forest, XGBoost, CatBoost]
+    E --> F[Hyperparameter Tuning \nOptimize models using Optuna]
+    F --> G[Model Evaluation \nEvaluate Accuracy, Fairness, and Explainability]
+    G --> H[Model Saving \nSave preprocessor and trained classifier (joblib files)]
+    H --> I[API Development \nCreate FastAPI app for inference]
+    I --> J[Containerization \nDockerize FastAPI app and services]
+    J --> K[CI-CD Automation \nGitHub Actions for automated build, test, and deployment]
+    G --> L[Monitoring \nMonitor Data Drift and Fairness regularly with Evidently and Fairlearn]
 ```
 
 **Methodology Overview**

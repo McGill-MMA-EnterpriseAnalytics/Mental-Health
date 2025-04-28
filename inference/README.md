@@ -6,14 +6,12 @@ Each script trains a different machine learning model to evaluate and compare pr
 
 Contents
 
-
-Script	Description
-train_catboost.py	Train a CatBoost classifier on preprocessed survey data.
-train_label_propagation.py	Apply semi-supervised Label Propagation using partially labeled training data.
-train_logistic_regression.py	Train a Logistic Regression baseline model.
-train_random_forest.py	Train a Random Forest classifier to capture non-linear feature interactions.
-train_self_training.py	Implement a semi-supervised Self-Training model to boost performance.
-train_xgboost.py	Train an XGBoost model with hyperparameter tuning for final deployment.
+- train_catboost.py	Train a CatBoost classifier on preprocessed survey data.
+- train_label_propagation.py	Apply semi-supervised Label Propagation using partially labeled training data.
+- train_logistic_regression.py	Train a Logistic Regression baseline model.
+- train_random_forest.py	Train a Random Forest classifier to capture non-linear feature interactions.
+- train_self_training.py	Implement a semi-supervised Self-Training model to boost performance.
+- train_xgboost.py	Train an XGBoost model with hyperparameter tuning for final deployment.
 Purpose
 
 Model Benchmarking: Compare traditional, ensemble, and semi-supervised learning methods.

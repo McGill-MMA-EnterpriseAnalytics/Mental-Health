@@ -10,7 +10,6 @@ Loads:
 - Preprocessing pipeline (preprocessor.pkl)
 - Trained classification model (classifier.pkl)
 - SHAP explainer (explainer.pkl)
-
 """
 
 from fastapi import FastAPI

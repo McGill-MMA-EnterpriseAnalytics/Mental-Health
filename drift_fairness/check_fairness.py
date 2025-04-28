@@ -9,8 +9,6 @@ This script:
 - Generates a radar chart to visualize group accuracies.
 - Produces an HTML report summarizing overall performance and fairness results.
 
-Author: Your Name
-Date: YYYY-MM-DD
 """
 
 import os

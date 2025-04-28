@@ -1,31 +1,73 @@
+# 🚀 Inference Module
 
-Experiments
+This folder contains the API deployment code for the Mental Health Prediction project.  
+It enables real-time inference through a FastAPI server.
 
-This folder contains model experimentation scripts for the Mental Health Treatment Prediction project.
-Each script trains a different machine learning model to evaluate and compare predictive performance.
+---
 
-Contents
+## 📄 Files
 
-- train_catboost.py	Train a CatBoost classifier on preprocessed survey data.
-- train_label_propagation.py	Apply semi-supervised Label Propagation using partially labeled training data.
-- train_logistic_regression.py	Train a Logistic Regression baseline model.
-- train_random_forest.py	Train a Random Forest classifier to capture non-linear feature interactions.
-- train_self_training.py	Implement a semi-supervised Self-Training model to boost performance.
-- train_xgboost.py	Train an XGBoost model with hyperparameter tuning for final deployment.
+| File | Description |
+|:---|:---|
+| `api.py` | FastAPI application providing endpoints for mental health prediction |
+| `__pycache__/` | Auto-generated cache files (can be ignored) |
 
-Purpose
+---
 
-- Model Benchmarking: Compare traditional, ensemble, and semi-supervised learning methods.
-- Final Model Selection: Choose the best-performing model (based on accuracy, F1-score, fairness).
-- Deployment Readiness: The best model will be integrated into the FastAPI service.
+## ⚙️ How It Works
 
-How to Run
+- Loads the trained model (`classifier.pkl`) and preprocessor (`preprocessor.pkl`)
+- Accepts user input via API request
+- Returns prediction results (e.g., treatment risk)
 
-Inside your activated virtual environment:
+---
 
-- python train_catboost.py
-- python train_label_propagation.py
-- python train_logistic_regression.py
-- python train_random_forest.py
-- python train_self_training.py
-- python train_xgboost.py
+## 📦 How to Run Locally
+
+1. Install dependencies:
+
+    ```bash
+    pip install fastapi uvicorn joblib scikit-learn
+    ```
+
+2. Run the FastAPI server:
+
+    ```bash
+    uvicorn api:app --reload
+    ```
+
+3. Access the interactive API documentation at:
+
+    ```
+    http://127.0.0.1:8000/docs
+    ```
+
+---
+
+## 📬 Available API Endpoints
+
+| Endpoint | Method | Description |
+|:---|:---|:---|
+| `/predict` | POST | Accepts user information and returns mental health risk prediction |
+
+Example payload for `/predict`:
+
+```json
+{
+  "Gender": "Female",
+  "Country_grouped": "Canada",
+  "self_employed": "No",
+  "family_history": "Yes",
+  "work_interfere": "Often",
+  "remote_work": "Yes",
+  "tech_company": "Yes",
+  "benefits": "Yes",
+  "care_options": "Not sure",
+  "wellness_program": "No",
+  "seek_help": "Yes",
+  "leave": "Somewhat difficult",
+  "mental_health_consequence": "Yes",
+  "phys_health_consequence": "No",
+  "coworkers": "Some of them"
+}
+

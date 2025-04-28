@@ -116,6 +116,9 @@ Our end-to-end pipeline includes:
 **Deployment Instructions**
 -  How to Build the Docker Image
   -- Make sure you are in the project root directory.
+   
 Then run the following command to build the Docker image: docker build -t mental-health-api .
+
+- 
 
 

@@ -117,11 +117,14 @@ Our end-to-end pipeline includes:
 
 
 
-**Key Results**
+**Key Takeaways and Results**
 
-- Achieved 90% overall test accuracy on the mental health treatment prediction task.
-- Implemented fairness auditing with demographic parity and equalized odds difference metrics.
-- Deployed Dockerized FastAPI API and integrated CI/CD with GitHub Actions.
-- Set up drift detection using Evidently AI for continuous monitoring.
-
+- Successful End-to-End Machine Learning Pipeline: Built a complete ML workflow from data preprocessing to model training, explainability, deployment, and monitoring.
+- High Predictive Performance: The final XGBoost model achieved an overall test accuracy of 90%, demonstrating strong predictive ability on mental health treatment prediction.
+- Model Explainability: Leveraged SHAP values to interpret feature importance, offering transparency into key drivers behind treatment-seeking behavior (e.g., family history, work environment).
+- Fairness and Bias Assessment: Conducted fairness evaluation using Fairlearn, analyzing demographic parity and equalized odds across sensitive groups (e.g., Gender). Identified and quantified potential biases with visual radar charts and group-level accuracy reports.
+- Production-Ready Deployment: Deployed the trained model through a FastAPI web application, fully containerized using Docker.
+API endpoints provide real-time predictions and interactive documentation (/docs).
+- Automated CI/CD Integration: Integrated GitHub Actions to automate build, test, and deployment workflows, ensuring high project maintainability and reproducibility.
+- Scalable Monitoring Setup: Set up baseline drift and fairness monitoring pipelines using Evidently AI and Fairlearn for future model health checks.
 

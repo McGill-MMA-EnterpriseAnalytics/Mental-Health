@@ -6,7 +6,6 @@ Uses EvidentlyAI's DataDriftPreset to:
 - Generate a visual HTML report for PMs, stakeholders, or model maintenance teams.
 
 """
-
 import pandas as pd
 import os
 from evidently.report import Report

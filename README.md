@@ -79,14 +79,6 @@ Every push to the main branch triggers the GitHub Actions workflow to:
   3. Validate the FastAPI server  
 You can find the workflow file in .github/workflows/ci.yml.
 
-**Key Results**
-
-- Achieved 90% overall test accuracy on the mental health treatment prediction task.
-- Implemented fairness auditing with demographic parity and equalized odds difference metrics.
-- Deployed Dockerized FastAPI API and integrated CI/CD with GitHub Actions.
-- Set up drift detection using Evidently AI for continuous monitoring.
-
-
 **Project End-to-End Pipeline**
 
 ```mermaid
@@ -115,9 +107,8 @@ Our end-to-end pipeline includes:
 
 **Deployment Instructions**
 -  How to Build the Docker Image
-  -- Make sure you are in the project root directory.
-   
-Then run the following command to build the Docker image: docker build -t mental-health-api .
+  - Make sure you are in the project root directory.
+  - Then run the following command to build the Docker image: docker build -t mental-health-api .
 
 - How to Run the Docker Container
   - After building the image, run the container exposing port 8000: docker run -p 8000:8000 mental-health-api
@@ -125,5 +116,12 @@ Then run the following command to build the Docker image: docker build -t mental
   - You can then access the interactive API docs via: http://localhost:8000/docs
 
 
+
+**Key Results**
+
+- Achieved 90% overall test accuracy on the mental health treatment prediction task.
+- Implemented fairness auditing with demographic parity and equalized odds difference metrics.
+- Deployed Dockerized FastAPI API and integrated CI/CD with GitHub Actions.
+- Set up drift detection using Evidently AI for continuous monitoring.
 
 

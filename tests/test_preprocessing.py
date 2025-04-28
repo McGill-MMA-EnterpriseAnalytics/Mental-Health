@@ -6,8 +6,6 @@ This test:
 - Applies it to a sample input.
 - Ensures the transformed output is 2D and has expected shape.
 
-Author: Your Name
-Date: YYYY-MM-DD
 """
 
 import pandas as pd

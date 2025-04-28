@@ -96,19 +96,18 @@ You can find the workflow file in .github/workflows/ci.yml.
 
 **Project End-to-End Pipeline**
 
-```mermaid
 flowchart TD
-    A[Data Collection \nCollect raw survey data (survey.csv)] --> B[Data Preprocessing \nClean, encode, and feature engineer data]
-    B --> C[Exploratory Data Analysis \nVisualize and understand data distribution]
-    C --> D[Train-Test Split \nSplit into training and testing sets]
-    D --> E[Model Training \nTrain Logistic Regression, Random Forest, XGBoost, CatBoost]
-    E --> F[Hyperparameter Tuning \nOptimize models using Optuna]
-    F --> G[Model Evaluation \nEvaluate Accuracy, Fairness, and Explainability]
-    G --> H[Model Saving \nSave preprocessor and trained classifier (joblib files)]
-    H --> I[API Development \nCreate FastAPI app for inference]
-    I --> J[Containerization \nDockerize FastAPI app and services]
-    J --> K[CI-CD Automation \nGitHub Actions for automated build, test, and deployment]
-    G --> L[Monitoring \nMonitor Data Drift and Fairness regularly with Evidently and Fairlearn]
+    A[Data Collection<br>Collect raw survey data (survey.csv)] --> B[Data Preprocessing<br>Clean, encode, and feature engineer data]
+    B --> C[Exploratory Data Analysis<br>Visualize and understand data distribution]
+    C --> D[Train-Test Split<br>Split into training and testing sets]
+    D --> E[Model Training<br>Train Logistic Regression, Random Forest, XGBoost, CatBoost]
+    E --> F[Hyperparameter Tuning<br>Optimize models using Optuna]
+    F --> G[Model Evaluation<br>Evaluate Accuracy, Fairness, and Explainability]
+    G --> H[Model Saving<br>Save preprocessor and trained classifier (joblib files)]
+    H --> I[API Development<br>Create FastAPI app for inference]
+    I --> J[Containerization<br>Dockerize FastAPI app and services]
+    J --> K[CI-CD Automation<br>GitHub Actions for automated build, test, and deployment]
+    G --> L[Monitoring<br>Monitor Data Drift and Fairness regularly with Evidently and Fairlearn]
 ```
 
 **Methodology Overview**

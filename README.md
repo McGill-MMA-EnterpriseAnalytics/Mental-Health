@@ -2,6 +2,9 @@
 Team Members: Phoebe Gao, Yina Liang Li, Carol Wang, Yuri Xu, and Qian Zhao.
 
 **Remark:**
+All project code has been modularized into clean `.py` files to support production use and future scalability.  
+In addition, for this mental health prediction project and its associated dataset, **all methodologies, outputs, and insights have been fully documented and explained inside the `Notebooks with Insights/` folder**.  
+This ensures a transparent and comprehensive view of the entire modeling and deployment process.
 
 **Problem Statement**
 

@@ -7,8 +7,6 @@ including:
 - Model and artifact saving (pipeline, classifier, explainer)
 - MLflow experiment tracking
 
-Author: Your Name
-Date: YYYY-MM-DD
 """
 
 import os

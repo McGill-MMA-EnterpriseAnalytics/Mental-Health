@@ -95,7 +95,7 @@ Every push to the main branch triggers the GitHub Actions workflow to:
 You can find the workflow file in .github/workflows/ci.yml.
 
 **Project End-to-End Pipeline**
-
+```mermaid
 flowchart TD
     A[Data Collection<br>Collect raw survey data (survey.csv)] --> B[Data Preprocessing<br>Clean, encode, and feature engineer data]
     B --> C[Exploratory Data Analysis<br>Visualize and understand data distribution]

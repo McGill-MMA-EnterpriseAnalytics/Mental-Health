@@ -3,15 +3,12 @@ from pydantic import BaseModel
 import joblib
 import pandas as pd
 
-# 初始化 FastAPI app
 app = FastAPI()
 
-# 加载模型、预处理器、explainer
 preprocessor = joblib.load("modeling/preprocessor.pkl")
 model = joblib.load("modeling/classifier.pkl")
 explainer = joblib.load("modeling/explainer.pkl")
 
-# 定义请求体格式
 class PredictRequest(BaseModel):
     Gender: str
     Country_grouped: str
@@ -35,7 +32,6 @@ class PredictRequest(BaseModel):
     obs_consequence: str
     Age: float
 
-# 公共变量
 FEATURE_COLUMNS = [
     'Gender', 'Country_grouped', 'self_employed', 'family_history',
     'work_interfere', 'remote_work', 'tech_company', 'benefits',
@@ -46,7 +42,6 @@ FEATURE_COLUMNS = [
     'Age'
 ]
 
-# 封装 pipeline functions
 def prepare_data(request: PredictRequest) -> pd.DataFrame:
     data = [[getattr(request, col) for col in FEATURE_COLUMNS]]
     return pd.DataFrame(data, columns=FEATURE_COLUMNS)
@@ -64,7 +59,6 @@ def explain_prediction(processed_data):
     feature_importance = dict(zip(FEATURE_COLUMNS, shap_values[0].tolist()))
     return feature_importance
 
-# 路由
 @app.get("/")
 def health_check():
     return {"message": "✅ API is up and running!"}

@@ -18,6 +18,8 @@ This folder contains scripts to **monitor feature drift**, **simulate new data s
 |:---|:---|
 | `monitor_drift.py` | Detects feature drift and generates drift reports (e.g., with EvidentlyAI). |
 | `check_fairness.py` | Evaluates fairness metrics (e.g., demographic parity, equalized odds) and generates radar charts + HTML reports. |
+| `XGBoost_Optuna_ModelDrift.ipynb` | Tunes XGBoost with Optuna and evaluates model performance and drift via ROC analysis. |
+| `Fairness_Analysis.ipynb` | Assesses model fairness across demographic groups using multiple fairness metrics. |
 | `simulate_data.py` | Simulates a shifted current dataset for testing drift and fairness monitoring. |
 | `feature_drift_report.html` | Example output report from drift monitoring. |
 | `fairness_reports/` | Saved fairness evaluation artifacts (CSV, PNG, HTML reports). |

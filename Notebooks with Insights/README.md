@@ -12,14 +12,16 @@ This folder contains full Jupyter Notebook versions of the project scripts and a
 - **Data Preprocessing and EDA** (`Data_Preprocessing_and_EDA.ipynb`, `Data_Preprocessing_and_EDA_v2.ipynb`):  
   Data cleaning, feature engineering, and exploratory analysis.
   
-- **Drift Analysis** (`drift_analysis.ipynb`):  
+- **Drift Analysis** (`drift_analysis.ipynb`, `XGBoost_Optuna_ModelDrift.ipynb`):  
   Detection of data drift using EvidentlyAI, including HTML report generation and drift interpretation.
+  XGBoost model tuning using Optuna, followed by performance evaluation and drift detection analysis based on ROC and classification metrics.
 
 - **Fairness Analysis** (`Fairness_Anaysis.ipynb`):  
   Fairness evaluation across demographic groups using Fairlearn metrics.
 
-- **Modeling** (`best_xgboost_with_tuning.py` in notebook form):  
+- **Modeling** (`best_xgboost_with_tuning.py`, `Model_Tuning.ipynb` in notebook form):  
   XGBoost model training with hyperparameter tuning and evaluation.
+  Full modeling process including data preprocessing, model selection, semi-supervised learning improvement, and hyperparameter tuning of Linear Regression, Random Forest, XGboost, and Catboost models, including performance evaluation and model saving.
 
 - **Causal Inference** (`Causal_Inference.ipynb`):  
   Investigation of potential causal relationships between features and the treatment outcome.
